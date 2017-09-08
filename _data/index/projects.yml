@@ -1,22 +1,54 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Indoor Positioning System using Deep Learning in WiFi networks
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: sabSAThai
+  repo:
+  img: 
+  desc: We are trying to develop a robust and accurate Indoor Positioning System. 
 
-- name: Python
-  i18n: cpython
+- name: EEG Signal Noise Modelling and Interpretation using Deep Learning and Computer Vision 
+  i18n: EEG
   gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  repo: 
+  img: 
+  desc: We are trying to model the noise due to stochastic head and facial movemnets in the EEG signals.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+
+- name: Solar Imaging at Microwave and Radio Frequencies.
+  i18n: Solar_imagining
+  url: 
+  img: 
+  desc: Obtained a temperature image of Sun at Microwave and Radio frequencies. 
+
+
+- name: Modelling of High Electron Mobility Transistors with Parasitic Capacitance at nanometre scale
+  i18n: HEMT
+  url: 
+  img: 
+  desc: Modelled the current-voltage characteristics of high frequency transistors to emphasize the significance of parasitic capacitance in their performance
+
+- name: Krushimitra
+  i18n: Krushimitra
+  url: 
+  img: 
+  desc:  Designed and implemented an easy to use, automatic system with a UI for farmers to decide the optimal water content and deliver it to crops.
+
+- name:  Hand Gesture Controlled Magnetic Levitation
+  i18n:  ITSP
+  url: 
+  img: 
+  desc: Designed and implemented an electromagnetic system for magnetic levitation of magnetic object
+ 
+- name: Automatic Reminder & Event Managing System
+  i18n: hobby project
+  url: 
+  img: 
+  desc: Used Google Calendar API and Google Speech Recognition API to create events and set reminders from the Linux terminal and voice commands 
+ 
+- name: LiFi
+  i18n: hobby project
+  url: 
+  img: 
+  desc: Built a visible light-based communication system to exchange text, music and images between 2 computers
