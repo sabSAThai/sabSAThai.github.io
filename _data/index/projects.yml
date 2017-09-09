@@ -6,9 +6,9 @@
   gh_user: sabSAThai
   repo:
   img: 
-  desc: We are trying to develop a robust and accurate Indoor Positioning System. 
+  desc: We are trying to develop a robust and an accurate Indoor Positioning System. 
 
-- name: EEG Signal Noise Modelling and Interpretation using Deep Learning and Computer Vision 
+- name: EEG Signal Noise Modeling and Interpretation using Deep Learning and Computer Vision 
   i18n: EEG
   gh_user: python
   repo: 
@@ -29,23 +29,23 @@
   img: 
   desc: Modelled the current-voltage characteristics of high frequency transistors to emphasize the significance of parasitic capacitance in their performance
 
-- name: Krushimitra
+- name: An intelligent water management system for farmers
   i18n: Krushimitra
   url: 
   img: 
-  desc:  Designed and implemented an easy to use, automatic system with a UI for farmers to decide the optimal water content and deliver it to crops.
+  desc: Designed and implemented an easy to use, automatic system with a UI for farmers to decide the optimal water content and deliver it to crops.
 
 - name:  Hand Gesture Controlled Magnetic Levitation
   i18n:  ITSP
   url: 
   img: 
-  desc: Designed and implemented an electromagnetic system for magnetic levitation of magnetic object
+  desc: Designed and implemented an electromagnetic system to levitate a magnetic object
  
 - name: Automatic Reminder & Event Managing System
   i18n: hobby project
   url: 
   img: 
-  desc: Used Google Calendar API and Google Speech Recognition API to create events and set reminders from the Linux terminal and voice commands 
+  desc: Developed a linux application using to create events and set reminders Google Calendar API and Google Speech Recognition API via the Linux terminal and voice commands 
 
 - name: Intervehicular Communication System   
   i18n: hobby project
