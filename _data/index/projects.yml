@@ -46,7 +46,13 @@
   url: 
   img: 
   desc: Used Google Calendar API and Google Speech Recognition API to create events and set reminders from the Linux terminal and voice commands 
- 
+
+- name: Intervehicular Communication System   
+  i18n: hobby project
+  url: 
+  img: 
+  desc: Designed and Implemented an interconnected network of vehicles to prevent accidents and manage traffic 
+
 - name: LiFi
   i18n: hobby project
   url: 
