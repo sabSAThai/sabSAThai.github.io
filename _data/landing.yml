@@ -31,8 +31,9 @@
   page: blog/
   css: testimonials navy-section
 
-- id: links
+- id: CV
   i18n: nav.link
-  name: Contact 
+  name: CV 
   tpl: links.html
   css: contact
+ 

@@ -1,18 +1,6 @@
 # links section data
-- last_name: Gmail
+- last_name: Curriculum Vitae
   first_name: 
-  desc: Personal mail ID
-  website: https://www.gmail.com
-  email: pranavsankhe40@gmail.com
-
-- last_name: Univeristy mail 
-  first_name: 
-  desc: Undergraduate
-  website: http://www.iitb.ac.in/
-  email: pranav_sankhe@iitb.ac.in
-
-- last_name: Facebook
-  first_name: 
-  desc: Facebook profile
-  website: https://www.facebook.com/pranav.sankhe.5
+  desc: 
+  website: http://sabSAT.github.io/docs/CV.pdf
   email: pranavsankhe40@gmail.com
