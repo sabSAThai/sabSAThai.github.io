@@ -799,6 +799,11 @@ button.dim:active:before {
   min-height: 200px;
 }
 
+.img-circle_projects {
+  border-radius: 50%;
+}
+
+
 .img-circle {
   border-radius: 50%;
 }
@@ -2643,6 +2648,13 @@ body {
       background: #3385FF;
     }
   }
+
+  .img-small_projects {
+    height: 250px;
+    width: 450px;
+  }
+
+  
   .img-small {
     height: 88px;
     width: 88px;
