@@ -4,57 +4,120 @@
 - name: Indoor Positioning System using Deep Learning in WiFi networks
   i18n: jalpc
   gh_user: sabSAThai
-  repo:
-  img: 
+  repo: https://github.com/sabSAThai/Position-Me-Baby
+  url: https://github.com/sabSAThai/Position-Me-Baby
+  img: /static/assets/img/projects/LPS.png
   desc: We are trying to develop a robust and accurate Indoor Positioning System. 
 
 - name: EEG Signal Noise Modelling and Interpretation using Deep Learning and Computer Vision 
   i18n: EEG
-  gh_user: python
-  repo: 
-  img: 
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/Brainalysis
+  url:  https://github.com/sabSAThai/Brainalysis
+  img:  /static/assets/img/projects/EEG.jpg
   desc: We are trying to model the noise due to stochastic head and facial movemnets in the EEG signals.
 
+- name: Tempo Extraction and Note generation of imagined from EEG signals
+  i18n: EEG
+  gh_user: sabSAThai
+  repo: 
+  url:  
+  img:  /static/assets/img/projects/music_perception.jpg
+  desc: Music Image Information Retrieval
+
+- name: A Multi-Restaurant Recommendation System using SVD 
+  i18n: Recommender System
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/SVD-based-Food-recommender-System
+  url:  https://github.com/sabSAThai/SVD-based-Food-recommender-System
+  img: /static/assets/img/projects/restaurant-recommendation.png
+  desc: Implemented a Multi-Restaurant Food Recommender System in Python
+
+- name: Client based business and turnover time predictor system 
+  i18n: SVM
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/Client_business_prediction
+  url:  https://github.com/sabSAThai/Client_business_prediction
+  img: /static/assets/img/projects/business_prediction.jpg
+  desc: Developed a Business predictor API for State Bank of India
+
+- name: Data clustering of sales of a retail store
+  i18n: Python 
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/FollowME
+  url:  https://github.com/sabSAThai/FollowME
+  img:  /static/assets/img/projects/clustering.png
+  desc: Implemented various clustering algorithms on sale data for prediction
 
 - name: Solar Imaging at Microwave and Radio Frequencies.
-  i18n: Solar_imagining
-  url: 
-  img: 
+  i18n: Solar_imaging
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/Rate-racing-in-plasma
+  url:  https://github.com/sabSAThai/Rate-racing-in-plasma
+  img:  /static/assets/img/projects/solar_imaging.png
   desc: Obtained a temperature image of Sun at Microwave and Radio frequencies. 
 
-
-- name: Modelling of High Electron Mobility Transistors with Parasitic Capacitance at nanometre scale
+- name: Modelling of HEMT's with Parasitic Capacitance at nanometre scale
   i18n: HEMT
-  url: 
-  img: 
-  desc: Modelled the current-voltage characteristics of high frequency transistors to emphasize the significance of parasitic capacitance in their performance
+  gh_user: sabSAThai
+  url:  https://github.com/sabSAThai/Modelling-the-fringing-effects-and-other-parasitic-effects-of-short-channel-hemts
+  repo: https://github.com/sabSAThai/Modelling-the-fringing-effects-and-other-parasitic-effects-of-short-channel-hemts
+  img: /static/assets/img/projects/hemt.png
+  desc: Emphasized the significance of parasitic capacitance in the performancef HEMT's
+
+- name: 3D Tracker using Image Processing 
+  i18n: OpenCV
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/FollowME
+  url:  https://github.com/sabSAThai/FollowME
+  img:  /static/assets/img/projects/follow_me.jpg
+  desc: Developed an algorithm to detect and track pedestrians using OpenCV Library in Python 
 
 - name: Krushimitra
   i18n: Krushimitra
-  url: 
-  img: 
-  desc:  Designed and implemented an easy to use, automatic system with a UI for farmers to decide the optimal water content and deliver it to crops.
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/Krushimitra-A-water-management-system
+  url:  https://github.com/sabSAThai/Krushimitra-A-water-management-system 
+  img:  /static/assets/img/projects/krushimitra.png
+  desc: Designed and implemented an autonomous water delivering system for farmers
 
 - name:  Hand Gesture Controlled Magnetic Levitation
   i18n:  ITSP
-  url: 
-  img: 
-  desc: Designed and implemented an electromagnetic system for magnetic levitation of magnetic object
- 
-- name: Automatic Reminder & Event Managing System
-  i18n: hobby project
-  url: 
-  img: 
-  desc: Used Google Calendar API and Google Speech Recognition API to create events and set reminders from the Linux terminal and voice commands 
+  gh_user: sabSAThai
+  url: https://github.com/sabSAThai/gesture_controlled_magnetic_levitation 
+  repo: https://github.com/sabSAThai/gesture_controlled_magnetic_levitation 
+  img:  /static/assets/img/projects/levitation.jpg
+  desc: Designed an Magnetic Levitation System
 
 - name: Intervehicular Communication System   
   i18n: hobby project
-  url: 
-  img: 
-  desc: Designed and Implemented an interconnected network of vehicles to prevent accidents and manage traffic 
+  gh_user: sabSAThai
+  url: https://github.com/sabSAThai/V2VCom
+  repo: https://github.com/sabSAThai/V2VCom
+  img: /static/assets/img/projects/v2v.png
+  desc: A interconnected network of vehicles to prevent accidents and manage traffic 
+ 
+- name: Automatic Reminder & Event Managing System
+  i18n: hobby project
+  gh_user: sabSAThai
+  url: https://github.com/sabSAThai/Remindy
+  repo: https://github.com/sabSAThai/Remindy
+  img: /static/assets/img/projects/remindy.png
+  desc: Developed a Linux Terminal application to manage events on Google Calendar
+
+- name: Vehicle Counter 
+  i18n: Python 
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/FollowME
+  url:  https://github.com/sabSAThai/FollowME
+  img:  /static/assets/img/projects/vehicle_counter.jpg
+  desc: Developed an algorithm to track and count vehicles at a factory gate
+
 
 - name: LiFi
   i18n: hobby project
-  url: 
-  img: 
-  desc: Built a visible light-based communication system to exchange text, music and images between 2 computers
+  gh_user: sabSAThai
+  url:  https://github.com/sabSAThai/Light-based-communication
+  repo: https://github.com/sabSAThai/Light-based-communication
+  img:  /static/assets/img/projects/lifi.jpg
+  desc: Built a visible light-based communication system
