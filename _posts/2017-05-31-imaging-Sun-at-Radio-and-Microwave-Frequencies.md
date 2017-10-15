@@ -83,7 +83,7 @@ Where, 'a' is a constant for a ray and'i' is the angle of incidence <br>
 For any ray like the one shown below, the follwing equation holds good, 
 
 <div style="display: flex; justify-content: center;">
-<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/a=0.5.png" width="35%" height="50%" align="middle">
+<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/a=0.5.png" width="50%" height="50%" align="middle">
 </div>
 
 $$ \frac{\rho{d\theta}}{d\rho} = -\tan{i} $$
