@@ -52,10 +52,6 @@ Filament cavities are zones which look dark in the X-rays and are above the regi
 
 In the normal background corona, we will adopt the conventional _Bambauch-Allen model_ for the radial distribution of electron density. The model is based on photometry of white light of the corona and zodiac light. 
 
-\begin{equation}
-   E = mc^2
-\end{equation}
-
 
 \\[ N = 1.55\times10^{14}\rho^{-6}(1 + 1.93\rho^{-10})  electrons/m^{3} \\]
 
