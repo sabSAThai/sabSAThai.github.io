@@ -152,7 +152,7 @@ At Frequency =  400 Megacycle per second. (400\times10^{6} Hertz):
 </div>
 
 
-**Note**
+**Note**: 
 We considered a radially symmetric profile of electron density in the solar atmosphere. But actually the sun has many disturbances in it's bizzare atmosphere. One of the type of irregularities are called coronal cones. These are conical shaped regions which have their apex at the core of sun and they extend upto the outer atmoshphere. These conical regions have lesser electron density than their surroundings as the material ejects out from this cones. These ejections(sudden massive outburts) are the reasons for solar flares. 
 When you observe the sun, these regions appear darker than the surrounding area by the virtue of low electron density at the given frequency. 
 
