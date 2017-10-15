@@ -54,9 +54,9 @@ In the normal background corona, we will adopt the conventional _Bambauch-Allen 
 
 $$ N = 1.55\times10^{14}\rho^{-6}(1 + 1.93\rho^{-10})  electrons/m^{3}$$ 
 
-Where, $\rho$ is the radial distance from the center of the sun in terms of the solar radius. 
+Where, \$ \rho$ is the radial distance from the center of the sun in terms of the solar radius. 
 
-The refractive index $\eta$ for radiation of frequency $f = \frac{2\pi}{\omega}$ in a medium consisting 'N' free $electrons/m^{3}$, each making $\upsilon$ collisions/sec, is given by: 
+The refractive index \$\eta$ for radiation of frequency \$f = \frac{2\pi}{\omega}$ in a medium consisting 'N' free \$electrons/m^{3}$, each making $\upsilon$ collisions/sec, is given by: 
 
 $$ \eta^{2} = 1 - \frac{Ne^{2}}{\epsilon_0m(\omega^{2} + \upsilon^{2})} $$ 
 
@@ -64,7 +64,7 @@ Subsituting the expression of 'N' and assuming 'w' >> 'v' (which is a good appro
 
 $$ \eta^{2} = 1 - 12400f^{-2}\rho^{-6}(1 + 1.93\rho^{-10})  $$
 
-where f is the frequency ( $f = \frac{2\pi}{\omega}$) 
+where f is the frequency ( \$f = \frac{2\pi}{\omega}$) 
 
 The path of the rays can be calculated using snell's laws. To be able to apply snell's law we need to ensure the following points. 
 - All the rays lie in the plane containing the center of Sun. 
@@ -113,16 +113,16 @@ To understand the radiative heat transfer theory, consider a cloud with a hot so
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/cloud.png" width="50%" height="20%" align="middle">
 </div>
 
-$ dI = - k_nIdl $ , <br>
+\$ dI = - k_nIdl $ , <br>
 where, I is the intensity entering each volume element, <br> 
-$ k_n $ is the absorption coefficient, or opacity, <br>
+\$ k_n $ is the absorption coefficient, or opacity, <br>
 dl is the length element 
 
 The solution to the above differential equation is : 
 
 $$ I = I_0exp(- \int_{0}^Lk_ndl) $$
 
-Note that the integration is taken along the line of sight from the observer.  In the case where the absorption is constant, of course, $k_n$ can be brought out of the integral.  The integral quantity is a dimensionless quantity called the _optical depth_ ($\tau$). The optical depth is a convenient way to refer to the _thickness_ of a cloud. It basically measures how many e-foldings of intensity reduction the cloud's thickness represents.
+Note that the integration is taken along the line of sight from the observer.  In the case where the absorption is constant, of course, \$k_n$ can be brought out of the integral.  The integral quantity is a dimensionless quantity called the _optical depth_ (\$\tau$). The optical depth is a convenient way to refer to the _thickness_ of a cloud. It basically measures how many e-foldings of intensity reduction the cloud's thickness represents.
 
 To obtain a relation between the observed temperature, source temperature and the cloud temperature, we use the _Rayleigh-Jeans approximation_. We obtain the following: 
 
@@ -132,20 +132,20 @@ Quite intutive, isn't it?
 
 The simulation results: 
 
-At Frequency =  18 Megacycle per second. ($18\times10^{6}$ Hertz):
+At Frequency =  18 Megacycle per second. (\$18\times10^{6}$ Hertz):
 
 <div style="display: flex; justify-content: center;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_18MC.png" width="75%" height="25%" align="middle">
 </div>
 
 
-At Frequency =  100 Megacycle per second. (100\times10^{6} Hertz):
+At Frequency =  100 Megacycle per second. (\$100\times10^{6} Hertz$):
 
 <div style="display: flex; justify-content: center;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_100MC.png" width="75%" height="20%" align="middle">
 </div>
 
-At Frequency =  400 Megacycle per second. (400\times10^{6} Hertz):
+At Frequency =  400 Megacycle per second. (\$400\times10^{6} Hertz$):
 
 <div style="display: flex; justify-content: center;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_400MC.png" width="75%" height="20%" align="middle">
