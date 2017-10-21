@@ -11,9 +11,11 @@ comments: true
 ---
 
 <div style="display: flex; justify-content: center;">
-<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_1.jpg" width="60%" height="50%" align="middle">
+<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_1.jpg" width="30%" height="30%" align="middle">
 </div>
-
+<br>
+<br>
+<br>s
 It’s quite easy to give in to the temptations, and assume that the camera worships your stature, and you cease to be the real you. And thus we have received so many of our larger-than-life characters. But watching _Nutan_ seems like an exercise in disbelief, an act of disregarding vanity. Her carefully etched out characters, infused with subtlety and grace, make a body of work populated by believable women, at a vast distance from our prima _divas_. From _Bimal Roy_ to _Vijay Anand_, every director she worked with became an ardent admirer of her meteoric talent. Nutan was not only blessed with a graceful personality and great acting skills, her voice was also quite serene. _Gautam Rajadhyaksha_ the famous photographer says about nutan, "Nutan was so beautiful she could be shot from any angle." 
 <br>
 <br>
@@ -24,5 +26,5 @@ In her last years she had become a satsangi. The word 'Om' meant a lot to her. S
 
 
 <div style="display: flex; justify-content: center;">
-<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_2.jpg" alt="Nutan in Bandini"  width="60%" height="50%" align="middle">
+<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_2.jpg" alt="Nutan in Bandini"  width="40%" height="40%" align="middle">
 </div>
