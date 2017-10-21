@@ -15,7 +15,7 @@ comments: true
 </div>
 <br>
 <br>
-<br>s
+<br>
 It’s quite easy to give in to the temptations, and assume that the camera worships your stature, and you cease to be the real you. And thus we have received so many of our larger-than-life characters. But watching _Nutan_ seems like an exercise in disbelief, an act of disregarding vanity. Her carefully etched out characters, infused with subtlety and grace, make a body of work populated by believable women, at a vast distance from our prima _divas_. From _Bimal Roy_ to _Vijay Anand_, every director she worked with became an ardent admirer of her meteoric talent. Nutan was not only blessed with a graceful personality and great acting skills, her voice was also quite serene. _Gautam Rajadhyaksha_ the famous photographer says about nutan, "Nutan was so beautiful she could be shot from any angle." 
 <br>
 <br>

@@ -7,6 +7,7 @@ keywords: "Corona, Electromagnetic Waves, Temperature Profile,"
 categories: [Technical Report]
 tags: [Sun, Corona, Radiative heat transfer, Solar Atmosphere]
 icon: icon-html 
+comments: true
 ---
 
 This is a short excerpt of research work done by me and my friend Krishna Subramani with [Prof. Raghunath Shevgaonkar](https://www.ee.iitb.ac.in/wiki/faculty/rks) during summers of 2017. I was working on the analysis of electromagnetic wave propagation in the solar atmosphere. The final goal was to obtain the temperature image of the sun if viewed in microwave and radio frequency range. I would like to thank Prof.Shevgaonkar for giving me this wonderful opportunity to dwell into the aspects of research involving laws of physics and simulating them using software of which I had no exposure to begin with. I used Python for simulation purposes; specifically libraries like <font face = "monospace" size = "4">Numpy</font> and <font face = "monospace" size = "4">Scipy</font>.

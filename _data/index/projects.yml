@@ -71,7 +71,16 @@
   repo: https://github.com/sabSAThai/FollowME
   url:  https://github.com/sabSAThai/FollowME
   img:  /static/assets/img/projects/follow_me.jpg
-  desc: Developed an algorithm to detect and track pedestrians using OpenCV Library in Python 
+  desc: Developed an algorithm to detect and track pedestrians
+
+- name: Insystem Programming
+  i18n: 
+  gh_user: sabSAThai
+  repo: https://github.com/Electrical-Subsystem/Insystem-Programming
+  url:  https://github.com/Electrical-Subsystem/Insystem-Programming
+  img:  http://www.fischl.de/usbasp/bilder/usbasp_circuit.png
+  desc: A self programmable system for Atmega Microcontrollers
+
 
 - name: Krushimitra
   i18n: Krushimitra
