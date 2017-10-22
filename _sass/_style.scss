@@ -1884,15 +1884,17 @@ ul.clear-list:first-child {
 .article {
   h1 {
     font-size: 48px;
-    color: #2F4050;
+/*    color: #2F4050;*/
+    color : #191970;
   }
   p {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 26px;
   }
 }
 
 .article-title {
+  color: #000080;
   text-align: center;
   margin: 40px 0 100px;
 }
