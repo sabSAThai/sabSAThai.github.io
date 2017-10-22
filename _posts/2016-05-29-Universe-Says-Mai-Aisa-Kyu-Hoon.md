@@ -3,6 +3,7 @@ layout: post
 title: "When Universe Says Mai Aisa Kyu Hoon" 
 date: 2016-05-29
 desc: 
+author: Pranav Sankhe
 keywords: "Anthropic principle, Strong, Weak"
 categories: []
 tags: [Anthropic principle]

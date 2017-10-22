@@ -3,6 +3,7 @@ layout: post
 title:  "Imaging Sun at Radio and Microwave Frequencies"
 date:   2017-05-31
 desc: "A research project under the guidance of professor Raghunath Shevgaonkar, Department of Electrical Engineering IIT Bombay, India"
+author: Pranav Sankhe
 keywords: "Corona, Electromagnetic Waves, Temperature Profile,"
 categories: [Technical Report]
 tags: [Sun, Corona, Radiative heat transfer, Solar Atmosphere]
