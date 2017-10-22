@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hello World! I am primarily interested in Computer Vision, Artificial Intelligence, IOT and its applications in the real world. Apart from this I love gardening and music.   # Describe yourself.
+  desc: Hello World! I am primarily interested in Computer Vision, Artificial Intelligence, IOT and its applications in the real world. Apart from this I love gardening and music. Also, I am punny # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
