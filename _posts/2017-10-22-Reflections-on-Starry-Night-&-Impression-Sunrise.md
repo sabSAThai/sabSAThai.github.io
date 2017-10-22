@@ -3,6 +3,7 @@ layout: post
 title:  "Reflections on Starry Night & Impression, Sunrise "
 date:   2017-10-22
 desc: 
+author: Pranav Sankhe
 keywords: "Van Gogh, Claude Monet,Impressionist Movement "
 categories: []
 tags: [Van Gogh, Claude Monet,Impressionist Movement]

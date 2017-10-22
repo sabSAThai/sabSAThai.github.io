@@ -3,6 +3,7 @@ layout: post
 title:  "Nutan's Charm"
 date:   2017-06-04
 desc: 
+author: Pranav Sankhe
 keywords: "Nutan, Bollywood"
 categories: []
 tags: [Nutan, Bandini, Sujata, Seema]
