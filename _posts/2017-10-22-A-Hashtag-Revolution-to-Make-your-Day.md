@@ -11,6 +11,9 @@ icon: icon-html
 comments: true
 ---
 
+<div style="display: flex; justify-content: center;">
+<img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/meToo/author.jpg" alt='Rudhdi'  width="30%" height="30%" align="middle">
+</div>
 
 _Rudhdi Walawalkar_ is a first year law student at ILS Law college, Pune. She reads, writes and paints as much as she eats and sleeps! She says, "I think it’s nice to have an opinion in a world where everyone wants to be politically correct. Passionate about women’s right, cats, dogs and pretty much everything under the sun. Oh! I always strive to be a better Gryffindor- where dwell the brave at heart."
 
