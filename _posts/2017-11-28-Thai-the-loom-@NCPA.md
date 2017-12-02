@@ -54,8 +54,7 @@ Here are some clicks of the show:
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paitahni_1.jpg" alt='Paithani'  width="30%" height="30%" style="float:left;" align="left">
 </div>
 
-**Again a Paithani with an intricate peacock design**
+**Ayiram Butti Silk Saree**
 <div style="display: flex; justify-content: left;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paithani_2.jpg" alt='paithani'  width="30%" height="30%" style="float:right;" align="right">
 </div>
-
