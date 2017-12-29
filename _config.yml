@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: sabSAThai  # Leave blank if you don't have now
   linkedin_id: # Leave blank if you don't have now
-  facebook_username: pranav.sankhe.5       # Leave blank if you don't have now
+  facebook_username: sabSAThai     # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: pranavsankhe40@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
@@ -28,12 +28,13 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hello World! I am primarily interested in Computer Vision, Artificial Intelligence, IOT and its applications in the real world. Apart from this I love gardening and music. Also, I am punny # Describe yourself.
+  desc: Hi! I am a 3rd year undergraduate at Electrical Engineering, IIT Bombay. I love what I do, rather I do what I love xD. I love gardening and I have a small garden cultivated I'm my hostel room. I love art! You will often find me at NCPA,Mumbai. A connoisseur of classical Indian music and Dance. I make puns xD. If I could be of any help, feel free to drop a message :) 
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: Pranav Sankhe
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: Pranav Sankhe
 
+disqus_shortname: pranavsankhe
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.

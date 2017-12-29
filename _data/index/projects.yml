@@ -1,37 +1,37 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Indoor Positioning System using Deep Learning in WiFi networks
+- name: Indoor Positioning System
   i18n: jalpc
   gh_user: sabSAThai
   repo: https://github.com/sabSAThai/Position-Me-Baby
   url: https://github.com/sabSAThai/Position-Me-Baby
   img: /static/assets/img/projects/LPS.png
-  desc: We are trying to develop a robust and accurate Indoor Positioning System. 
+  desc: 
 
-- name: EEG Signal Noise Modelling and Interpretation using Deep Learning and Computer Vision 
-  i18n: EEG
+- name: Adversarial Attacks on Segmentation Networks      
+  i18n: jalpc
   gh_user: sabSAThai
-  repo: https://github.com/sabSAThai/Brainalysis
-  url:  https://github.com/sabSAThai/Brainalysis
-  img:  /static/assets/img/projects/EEG.jpg
-  desc: We are trying to model the noise due to stochastic head and facial movemnets in the EEG signals.
+  repo: https://github.com/sabSAThai/Adversarial-Attacks-on-Segmentation-Algorithms
+  url: https://github.com/sabSAThai/Adversarial-Attacks-on-Segmentation-Algorithms
+  img: /static/assets/img/projects/genadv.png
+  desc: 
 
-- name: Tempo Extraction and Note generation of imagined from EEG signals
+- name: Music Information Retrieval from EEG
   i18n: EEG
   gh_user: sabSAThai
   repo: 
   url:  
   img:  /static/assets/img/projects/music_perception.jpg
-  desc: Music Image Information Retrieval
+  desc: 
 
-- name: A Multi-Restaurant Recommendation System using SVD 
+- name: A Multi-Restaurant Recommendation System
   i18n: Recommender System
   gh_user: sabSAThai
   repo: https://github.com/sabSAThai/SVD-based-Food-recommender-System
   url:  https://github.com/sabSAThai/SVD-based-Food-recommender-System
   img: /static/assets/img/projects/restaurant-recommendation.png
-  desc: Implemented a Multi-Restaurant Food Recommender System in Python
+  desc: 
 
 - name: Client based business and turnover time predictor system 
   i18n: SVM
@@ -39,7 +39,7 @@
   repo: https://github.com/sabSAThai/Client_business_prediction
   url:  https://github.com/sabSAThai/Client_business_prediction
   img: /static/assets/img/projects/business_prediction.jpg
-  desc: Developed a Business predictor API for State Bank of India
+  desc: 
 
 - name: Data clustering of sales of a retail store
   i18n: Python 
@@ -47,7 +47,7 @@
   repo: https://github.com/sabSAThai/FollowME
   url:  https://github.com/sabSAThai/FollowME
   img:  /static/assets/img/projects/clustering.png
-  desc: Implemented various clustering algorithms on sale data for prediction
+  desc: 
 
 - name: Solar Imaging at Microwave and Radio Frequencies.
   i18n: Solar_imaging
@@ -55,15 +55,15 @@
   repo: https://github.com/sabSAThai/Rate-racing-in-plasma
   url:  https://github.com/sabSAThai/Rate-racing-in-plasma
   img:  /static/assets/img/projects/solar_imaging.png
-  desc: Obtained a temperature image of Sun at Microwave and Radio frequencies. 
+  desc: 
 
-- name: Modelling of HEMT's with Parasitic Capacitance at nanometre scale
+- name: Modelling of HEMT's with Parasitic Capacitance
   i18n: HEMT
   gh_user: sabSAThai
   url:  https://github.com/sabSAThai/Modelling-the-fringing-effects-and-other-parasitic-effects-of-short-channel-hemts
   repo: https://github.com/sabSAThai/Modelling-the-fringing-effects-and-other-parasitic-effects-of-short-channel-hemts
   img: /static/assets/img/projects/hemt.png
-  desc: Emphasized the significance of parasitic capacitance in the performancef HEMT's
+  desc: 
 
 - name: 3D Tracker using Image Processing 
   i18n: OpenCV
@@ -71,7 +71,7 @@
   repo: https://github.com/sabSAThai/FollowME
   url:  https://github.com/sabSAThai/FollowME
   img:  /static/assets/img/projects/follow_me.jpg
-  desc: Developed an algorithm to detect and track pedestrians
+  desc: 
 
 - name: Insystem Programming
   i18n: 
@@ -79,8 +79,7 @@
   repo: https://github.com/Electrical-Subsystem/Insystem-Programming
   url:  https://github.com/Electrical-Subsystem/Insystem-Programming
   img:  http://www.fischl.de/usbasp/bilder/usbasp_circuit.png
-  desc: A self programmable system for Atmega Microcontrollers
-
+  desc: 
 
 - name: Krushimitra
   i18n: Krushimitra
@@ -88,7 +87,7 @@
   repo: https://github.com/sabSAThai/Krushimitra-A-water-management-system
   url:  https://github.com/sabSAThai/Krushimitra-A-water-management-system 
   img:  /static/assets/img/projects/krushimitra.png
-  desc: Designed and implemented an autonomous water delivering system for farmers
+  desc: 
 
 - name:  Hand Gesture Controlled Magnetic Levitation
   i18n:  ITSP
@@ -96,7 +95,7 @@
   url: https://github.com/sabSAThai/gesture_controlled_magnetic_levitation 
   repo: https://github.com/sabSAThai/gesture_controlled_magnetic_levitation 
   img:  /static/assets/img/projects/levitation.jpg
-  desc: Designed an Magnetic Levitation System
+  desc: 
 
 - name: Intervehicular Communication System   
   i18n: hobby project
@@ -104,7 +103,7 @@
   url: https://github.com/sabSAThai/V2VCom
   repo: https://github.com/sabSAThai/V2VCom
   img: /static/assets/img/projects/v2v.png
-  desc: A interconnected network of vehicles to prevent accidents and manage traffic 
+  desc:  
  
 - name: Automatic Reminder & Event Managing System
   i18n: hobby project
@@ -112,7 +111,7 @@
   url: https://github.com/sabSAThai/Remindy
   repo: https://github.com/sabSAThai/Remindy
   img: /static/assets/img/projects/remindy.png
-  desc: Developed a Linux Terminal application to manage events on Google Calendar
+  desc: 
 
 - name: Vehicle Counter 
   i18n: Python 
@@ -120,8 +119,23 @@
   repo: https://github.com/sabSAThai/FollowME
   url:  https://github.com/sabSAThai/FollowME
   img:  /static/assets/img/projects/vehicle_counter.jpg
-  desc: Developed an algorithm to track and count vehicles at a factory gate
+  desc: 
 
+- name: Wireless Headphones
+  i18n: hobby project
+  gh_user: sabSAThai
+  url:  https://github.com/Arunabh98/Wireless-Headphones
+  repo: https://github.com/Arunabh98/Wireless-Headphones
+  img:  /static/assets/img/projects/headphones.jpg
+  desc:
+
+- name: Electronics of Arial balloon
+  i18n: hobby project
+  gh_user: sabSAThai
+  url: https://github.com/sabSAThai/Advitiy_mini_project
+  repo: https://github.com/sabSAThai/Advitiy_mini_project
+  img: /static/assets/img/projects/gps.jpg
+  desc:
 
 - name: LiFi
   i18n: hobby project
@@ -129,4 +143,6 @@
   url:  https://github.com/sabSAThai/Light-based-communication
   repo: https://github.com/sabSAThai/Light-based-communication
   img:  /static/assets/img/projects/lifi.jpg
-  desc: Built a visible light-based communication system
+  desc: 
+
+

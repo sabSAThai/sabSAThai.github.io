@@ -13,9 +13,9 @@ layout: compress
 
 
 
-</head>
+</head >
 
-<body id="page-top" class="landing-page" >
+<body id="page-top" class="landing-page" background: url(../assets/img/landing/header_one.jpg) >
 
     {% if page.title != 'index' %}
         {% include blog_header.html %}
@@ -28,6 +28,11 @@ layout: compress
     {% else %}
         {% include index_foot.html %}
     {% endif %}
+
+
+
+    {% include contact_static.html %}    
+
 
 
 <script type="text/javascript"

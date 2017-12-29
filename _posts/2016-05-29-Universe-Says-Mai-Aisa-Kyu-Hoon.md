@@ -9,6 +9,7 @@ categories: []
 tags: [Anthropic principle]
 icon: icon-html
 comments: true
+bckpic: /home/pranav/blog/Jalpc/static/assets/img/projects/headphones.jpg
 ---
 
 
