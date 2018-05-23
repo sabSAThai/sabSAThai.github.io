@@ -2,6 +2,21 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Honda Research Institute, Saitama, Japan 
+    i18n: company_b
+  desc:
+    detail: Visiting Researcher
+    i18n: company_b_desc
+  date:
+    detail: May 2018 - Present
+    i18n: company_b_date
+  job:
+    detail: Visiting Researcher
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
     detail: Advitiya- The Satellite Team of IIT Bombay 
     i18n: company_b
   desc:
