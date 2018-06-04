@@ -17,6 +17,15 @@
   img: /static/assets/img/projects/genadv.png
   desc: 
 
+- name: Attacks on Defensive Distillation     
+  i18n: jalpc
+  gh_user: sabSAThai
+  repo: https://github.com/sabSAThai/EE769-project
+  url: https://github.com/sabSAThai/EE769-project
+  img: /static/assets/img/projects/8.png
+  desc: 
+
+
 - name: Music Information Retrieval from EEG
   i18n: EEG
   gh_user: sabSAThai
@@ -25,7 +34,7 @@
   img:  /static/assets/img/projects/music_perception.jpg
   desc: 
 
-- name: A Multi-Restaurant Recommendation System
+- name: Recommendation Systems
   i18n: Recommender System
   gh_user: sabSAThai
   repo: https://github.com/sabSAThai/SVD-based-Food-recommender-System
