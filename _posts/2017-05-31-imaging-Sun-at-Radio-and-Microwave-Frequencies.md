@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Imaging Sun at Radio and Microwave Frequencies"
 date:   2017-05-31
 desc: "A research project under the guidance of professor Raghunath Shevgaonkar, Department of Electrical Engineering IIT Bombay, India"
@@ -10,6 +10,26 @@ tags: [Sun, Corona, Radiative heat transfer, Solar Atmosphere]
 icon: icon-html 
 comments: true
 ---
+
+<div class="wrapper wrapper-content  animated fadeInRight article">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="ibox">
+                <div class="ibox-content">
+                    <div class="pull-right">
+                    	{% for category in page.categories %}
+                        	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/' | prepend: site.baseurl }}">{{ category }}</a>
+                        {% endfor %}
+                    </div>
+
+<div class="text-center article-title">
+                    <span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                    </div>
+
+
 
 This is a short excerpt of research work done by me and my friend Krishna Subramani with [Prof. Raghunath Shevgaonkar](https://www.ee.iitb.ac.in/wiki/faculty/rks) during summers of 2017. I was working on the analysis of electromagnetic wave propagation in the solar atmosphere. The final goal was to obtain the temperature image of the sun if viewed in microwave and radio frequency range. I would like to thank Prof.Shevgaonkar for giving me this wonderful opportunity to dwell into the aspects of research involving laws of physics and simulating them using software of which I had no exposure to begin with. I used Python for simulation purposes; specifically libraries like <font face = "monospace" size = "4">Numpy</font> and <font face = "monospace" size = "4">Scipy</font>.
 
@@ -167,3 +187,52 @@ When you observe the sun, these regions appear darker than the surrounding area 
 
 
 
+<div class="row">
+                        <div class="col-lg-12">
+                            <!-- share -->
+                            {% include share.html %}
+                            <br>
+						<div id="disqus_thread"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+<script src="{{site.url}}/js/inlineDisqussions.js"></script>
+<script src="{{site.url}}/js/disqus.js"></script>
+                            </div>
+                        </div>
+                        <div class="col-md-4" id="toc-wrapper">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+    <script src="{{site.url}}/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="{{site.url}}/highlight/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    <script src="{{site.url}}/js/footnotes.js"></script>
+    <script src="{{site.url}}/js/bootstrap-carousel.js"></script>
+    <script src="{{site.url}}/js/inlineDisqussions.js"></script>
+    <script src="{{site.url}}/js/toc.js"></script>
+
+
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
+    <!-- comment -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
