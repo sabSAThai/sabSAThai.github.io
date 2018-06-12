@@ -28,8 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi! I am a 3rd year undergraduate at Electrical Engineering, IIT Bombay. I love what I do, rather I do what I love xD. I love gardening and I have a small garden cultivated I'm my hostel room. Peoms amaze me; Invcitus being my favourite. Bob Dylan, Beatles, Indian Classical music, Mozart, Beethoven, Tartini, Vivaldi, Kishore Kumar, Rafi is a rough description of my music taste. I make puns xD. If I could be of any help, feel free to drop a message :) 
-
+  desc: Hi! I am a 3rd year undergraduate at Electrical Engineering, IIT Bombay. My research interests are signal processing of Audio and EEG signals specifically, Adverserial Attack Algorithms,Motion Sequence analysis and Neural Machine Translation. I love gardening and I have a small garden cultivated I'm my hostel room. I like literature especially poems. I am a make puns too. If I could be of any help, feel free to drop a message :)
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #   name: Pranav Sankhe

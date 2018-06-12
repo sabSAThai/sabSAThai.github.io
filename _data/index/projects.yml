@@ -9,13 +9,22 @@
   img: /static/assets/img/projects/LPS.png
   desc: 
 
-- name: Adversarial Attacks on Segmentation Networks      
+- name: Adversarial Attacks on Segmentation      
   i18n: jalpc
   gh_user: sabSAThai
   repo: https://github.com/sabSAThai/Adversarial-Attacks-on-Segmentation-Algorithms
   url: https://github.com/sabSAThai/Adversarial-Attacks-on-Segmentation-Algorithms
   img: /static/assets/img/projects/genadv.png
   desc: 
+
+- name: Music Retrieval from EEG
+  i18n: EEG
+  gh_user: sabSAThai
+  repo: 
+  url:  
+  img:  /static/assets/img/projects/music_perception.jpg
+  desc: 
+
 
 - name: Attacks on Defensive Distillation     
   i18n: jalpc
@@ -26,13 +35,6 @@
   desc: 
 
 
-- name: Music Information Retrieval from EEG
-  i18n: EEG
-  gh_user: sabSAThai
-  repo: 
-  url:  
-  img:  /static/assets/img/projects/music_perception.jpg
-  desc: 
 
 - name: Recommendation Systems
   i18n: Recommender System
