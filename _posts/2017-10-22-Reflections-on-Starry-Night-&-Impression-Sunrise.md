@@ -33,7 +33,7 @@ comments: true
 <div style="display: flex; justify-content: center;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/paintings/starry_night.jpg" alt='The Starry Night'  width="50%" height="50%" align="middle">
 </div>
-<br>
+
 <p style="font-family:FontAwesome;">
 One of the most epic paintings I have ever seen. Can never stop staring at it. Starry night is a paiting of contrast, connection and transition. The sky is full of roar expressed as long strokes and below there's a quite village in the sweet pre-dawn sleep. The night is slowly melting down into a beautiful dawn under the inspection of the morning star. Connecting earth and sky is the flamelike cypress, a tree traditionally associated with graveyards and mourning. 
 "Looking at the stars always makes me dream," he (Van Gogh) said, "Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star"    
@@ -45,8 +45,6 @@ Rooted in imagination and memory, The Starry Night embodies an inner, subjective
 
 "The Olive Trees" is another painting of Van Gogh where he studies starry night further.
 </p>
-
-<br>
 <br>
 
 <div style="display: flex; justify-content: center;">
@@ -58,10 +56,10 @@ Painted in the Spring of 1873. <i>Impression:Sunrise</i> by <strong>Claude Monet
 
 The brilliantly bright orange sun close to the horizon expressessing itself through the light it scintillates which dances on the wav sea and thus puts up a mesmerizing treat for eyes. 
 
-Throughout the years, Claude Monet’s <i>Impression:Sunrise</i> has been celebrated as the quintessential symbol of the Impressionist Movement.  This renowned work of art is considered to be one of Monet’s “most poetic expressions” of his _Impressionism movement_. Developing in Paris in the 1860s, the influence of Impressionist Movement spread throughout Europe and eventually the United States. Its originators were artists who rejected the official, government-sanctioned exhibitions, or salons, and were consequently shunned by powerful academic art institutions. 
+
+Throughout the years, <i>Claude Monet’s Impression:Sunrise</i> has been celebrated as the quintessential symbol of the Impressionist Movement.  This renowned work of art is considered to be one of Monet’s “most poetic expressions” of his <i>Impressionism movement</i>. Developing in Paris in the 1860s, the influence of Impressionist Movement spread throughout Europe and eventually the United States. Its originators were artists who rejected the official, government-sanctioned exhibitions, or salons, and were consequently shunned by powerful academic art institutions. 
 
 This painting is currently at Marmottan Monet museum, Paris.  
-
 </p>
 
 
