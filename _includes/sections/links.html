@@ -1,4 +1,4 @@
-<div class="container" id="i18_link">
+<!-- <div class="container" id="i18_link">
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
@@ -34,5 +34,22 @@
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
         </div>
+    </div>
+</div>
+ -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center wow zoomIn" id="i18_blog">
+            <div style="height: 80px;"></div>
+            <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="https://sabSAThai.github.io/CV.pdf"><span data-i18n="blog.my_blog">CV</span></a>
+            <div style="height: 80px;"></div>
+        </div>
+            <ul class="list-inline social-icon">
+                <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
+                </li>
+                <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
+                </li>
+            </ul>
+        
     </div>
 </div>
