@@ -29,7 +29,7 @@ comments: true
                     </div>
 
 <p style="font-family:FontAwesome;">
-On 28th November 2017 at Jamshed Bhabha theatre, NCPA, [Paramparik Karigar](http://www.paramparikkarigar.com/index.php) organized a Bharatnatyam dance event "Thari- The Loom" which I happened to attend. Paramparik Karigar an association of craftsmen was founded in 1996. The principle aim of Paramparik Karigar is to preserve and promote traditional art and craft of India. Critically acclaimed Bharatanatyam dancer Padma Shri, Malavika Surakkai and troupe put forth a performance which brought to audiences a lasting experience of the richness, versatility and profound beauty through the traditional practices of dance and weaving.  
+On 28th November 2017 at Jamshed Bhabha theatre, NCPA, Click <a href="http://www.paramparikkarigar.com/index.php">Paramparik Karigar</a> organized a Bharatnatyam dance event "Thari- The Loom" which I happened to attend. Paramparik Karigar an association of craftsmen was founded in 1996. The principle aim of Paramparik Karigar is to preserve and promote traditional art and craft of India. Critically acclaimed Bharatanatyam dancer Padma Shri, Malavika Surakkai and troupe put forth a performance which brought to audiences a lasting experience of the richness, versatility and profound beauty through the traditional practices of dance and weaving.  
 </p>
 <br>
 <p style="font-family:FontAwesome;">
