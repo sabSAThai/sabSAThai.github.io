@@ -1,0 +1,353 @@
+\documentclass[margin,line]{res}
+
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{color}
+\usepackage{lettrine}
+% \usepackage[left=0.75in, right=0.75in, top=0.75in,bottom=0.75in, margin=0.75in]{geometry}
+\oddsidemargin = -.5in
+\evensidemargin = -.5in
+\topmargin = -0.3in
+\textheight = 9.75in
+
+\textwidth = 6.0in
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+%\setlength{\pdfpagewidth}{\paperwidth}
+%\setlength{\pdfpageheight}{\paperheight} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\pagenumbering{gobble}
+
+\begin{document}
+
+
+\name{\textbf{\huge{Pranav Sankhe}} \vspace*{.1in} }
+
+\begin{resume}
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{2.9in}p{.5in}p{3in}}
+Department of Electrical Engineering & \multicolumn{1}{r}{\it Phone:}  &(+91) 902 920 4916 \\            
+Indian Institute of Technology Bombay &\multicolumn{1}{r}{\it E--Mail:}& \href{mailto:pranav_sankhe@iitb.ac.in}{\textcolor{blue}{pranav\_sankhe@iitb.ac.in}} \\ 
+\#132, Hostel 07, IIT Bombay & & \href{mailto:pranavsankhe40@gmail.com}{\textcolor{blue}{pranavsankhe40@gmail.com}} \\ 
+Powai, Mumbai, India 400 076 & \multicolumn{1}{r}{\it Webpage:} &\href{https://sabsathai.github.io}{\textcolor{blue}{https://sabsathai.github.io}} \\     
+\end{tabular}
+
+\section{\sc Research Interests}
+\lettrine[lines=2]{I}{} am passionate about Audio Processing (Speech and Music analysis, Corrupted Speech Processing, Music Transcription), Machine Learning (Bayesian inference, Deep Learning Models), Computational Neuroscience (Human Auditory System, Critically Balanced Networks, Stochastic Neural Models). I am interested in fundamental questions and I enjoy learning about how our brain works and experimenting with all the above fields in one another.
+
+\section{\sc Education}
+{\bf \href{http://www.iitb.ac.in/}{\textcolor{blue}{Indian Institute of Technology Bombay}}}, Mumbai, India \hfill {\it July 2015 -- Present} \\
+\vspace*{-.1in}
+\begin{list1}
+\item[] Fourth Year, Dual Degree (Bachelor \& Master of Technology), Department of \href{http://www.ee.iitb.ac.in/}{\textcolor{blue}{Electrical Engineering}}
+\item[] Specialization: {\em Communication \& Signal Processing}
+\end{list1}
+
+\section{\sc Publications \\ and Patents}
+\begin{list2}
+\item  Sankhe, P., Azim, S., Goyal, S., Et al., {\em Indoor Positioning System using LSTMs over WLAN Network}. Submitted to \href{http://icc2019.ieee-icc.org}{\textcolor{blue} {IEEE ICC 2019 Conference}}.
+\end{list2}
+
+\section{\sc Research Internships}
+
+{\bf  \href{http://www.jp.honda-ri.com/en/}{\textcolor{blue}{Honda Research Institute, Saitama, Japan}} } \hfill {\it Summer 2018} \\
+\textbf{Sign Language Translation musing Deep LSTM \& 3D ResNet Networks} \\
+{\em Guide: \href{https://www.researchgate.net/profile/Heike_Brock}{\textcolor{blue}{Dr. Brock Hieke}}}  \\
+\vspace*{-.1in}
+% \vspace*{-.13in}
+\begin{itemize} \itemsep=-10pt
+\item Implemented a Sequence to Sequence Neural Network to learn Sign Language translation \\ 
+\item Designed the encoder for motion recognition using 3D Convolutional layers and LSTMs. \\ 
+\item Significantly decreased the computation time by implementing ResNet 3D Convolutions\\ 
+\item Used 2 channel Optical Flow of the videos as the input for the learning architecture \\ 
+\end{itemize}
+
+{\bf \href{http://arrowai.com}{\textcolor{blue} {Arrow AI}}, {\textcolor{blue}{A Mumbai based AI Start-Up}}}  \hfill {\it Dec'16-Jan'17} \\
+\textbf{Developing APIs for commercial applications of \emph{Machine Learning} in \emph{TensorFlow}}\\
+\vspace*{-.1in}
+\begin{itemize}
+\item Developed and implemented an API for \emph{State Bank of India} which is the largest commercial bank of India, to \emph{estimate expected business capital and time} for new clients
+\item Designed and developed a \emph{recommendation system} for restaurants using \emph{SVD}
+\item Implemented an API to scrape transaction details from online PDF bank statements
+\item Developed an algorithm to estimate the path of consumers in stores using \emph{OpenCV} 
+\end{itemize}
+
+
+% {\bf SoundREX, \href{https://www.soundrex.com/}{\textcolor{blue}{A Mumbai based music technology Start-Up}}} \hfill {\it Dec'16-Jan'17} \\
+% \vspace*{-.13in}
+% \begin{itemize}%
+% \item Creating an immersive experience with personal wristband speakers in music concerts
+% \item Designed a circuit to estimate the location of the user based on the music around
+% \end{itemize}
+
+% \vspace{-.1cm}
+
+\section{\sc Research Projects}
+
+{\bf Indoor Localisation System using WiFi Networks and LSTMs} \\
+{\em Guide: \href{http://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php}{\textcolor{blue}{Prof. Srikant Sukumar}}, System and Controls, IIT Bombay} \hfill{\it January 2016 -- August 2018} \\
+\vspace*{-.13in}
+\begin{itemize}
+% \begin{list1}
+\item Designed and developed an Indoor Localisation System on WLAN infrastructure
+\item Designed a WiFi network with Central Access Point and WiFi nodes placed strategically 
+\item Implemented a Deep LSTM Network which estimates location of a particular WiFi node given the acquired signal data by the WiFi network
+\item The developed Indoor Positioning is robust and self adaptable to the changing environmental conditions of the surroundings.
+\item Acheived state of art accuracy of $5 cms$ on a range of $10 m$ significantly advancing the previous state of art accuracy which was $40 cms$ \\ 
+\end{itemize}
+% \end{list1}
+
+
+{\bf Generating Adversarial attacks on Image Segmentation Neural Networks} \\
+{\em Guide: \href{https://people.eecs.berkeley.edu/~dawnsong/}{\textcolor{blue}{Prof. Dawn Song}},\href{https://bair.berkeley.edu}{\textcolor{blue}{ Berkeley Artificial Intelligence Research Lab}}} \hfill {\it Sept'17 - Dec'17}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Generated adversarial attacks on the state of art image segmentation algorithm which uses dilated residual neural networks
+\item Implemented the universal adversarial generation algorithm known as Dense Adversary Generation algorithm to generate examples to fail the segmentation output 
+\item Achieved an accurcy drop from 68.28 $\%$ to 8.06$\%$ thus pointing at the loopholes in the state of the art segmentation network
+\end{itemize}
+
+{\bf Corrupted Speech Processing using Perceptive Models and Spiking Neural Networks} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/udayan}{\textcolor{blue}{Prof. Udayan Ganguly}}, Electrical Engineering, IIT Bombay} \hfill {\it August'18 - Present}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Implemented a Source Seperation system using auditory input representations inspired from human auditory system 
+\item Implemented a $2$ layer Spiking Neural Network to generate a binary mask to seperate speech from the background noise
+\end{itemize}
+
+
+{\bf Polyphonic Drum Transcription using Non Negative Matrix Factorization} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/prao}{\textcolor{blue}{Prof. Preeti Rao}}, Electrical Engineering, IIT Bombay} \hfill {\it August'18 - Present}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Implemented a music transcription system for drums recordings using Non Negative Matrix Factorization
+\item Acheived an F-measure of $0.66$ on the IDMT-SMT drum dataset with polyphonic music drum recordings
+\end{itemize}
+
+
+{\bf Music Information Retrieval from EEG signals} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~gskasbekar/}{\textcolor{blue}{Prof. Gaurav Kasbekar}}, Electrical Engineering, IIT Bombay} \hfill {\it July'17 - Dec'17}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Applied onset detecting techniques on EEG recordings to extract the tempo of the corresponding stimulus.
+\item Implemented temporgram estimation using autocorrelation technique assuming EEG as the novelty curve
+\item Acheieved a difference of 1 bpm in the actual tempo and the calculated tempo from the EEG data 
+\end{itemize}
+
+
+{\bf Member of Advitiya} \\
+{\em Advitiya is the 2nd student satellite of IITB, technically advanced and efficient version of the 1st, Pratham}{\em \hfill Apr'17-Present} \\
+\vspace*{-.13in}
+\begin{itemize}
+\item Critically analyzed Astronomical Image Processing and \emph{Image Compression Algorithms} to decide the optimum algorithm based on parameters like compression ratio and computation time.  
+\item Wrote \emph{Embedded C} code to enable \emph{ISP} programming of on-satellite microcontrollers using a master microcontroller to be able to reprogram and tweak the software while the satellite is in orbit  
+\end{itemize}
+
+{\bf Imaging Sun at Microwave and Radio Frequencies} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/rks}{\textcolor{blue}{Prof. Raghunath Shevgaonkar}}, Electrical Engineering, IIT Bombay} \hfill {\it Oct'16-May'17}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Analyzed the propagation of \emph{Electromagnetic Waves} in the plasma environment in the \emph{solar corona} and obtained trajectory of rays in the Coronal atmosphere 
+\item Obtained the plot of sun's temperature profile using the trajectory of the electromagnetic beam and \emph{Radiative Transfer Theory}
+\end{itemize}
+
+
+{\bf Modelling High Electron Mobility Transistors with Parasitic Capacitance} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/dsaha}{\textcolor{blue}{Prof. Dipankar Saha}}, Electrical Engineering, IIT Bombay} \hfill {\it Apr'16-Oct'16}\\
+\vspace*{-.13in}
+\begin{itemize}
+\item Analysed \emph{fringing effects} to model the resulting parasitic capacitance at scales of $10^\text{-12}$ 
+\item Modelled the current-voltage characteristics of \emph{high frequency transistors} to emphasize the significance of parasitic capacitance in their performance
+\item Established \emph{techniques}  to \emph{reduce the  transistor switching delay} introduced due to parasitic capacitance
+\end{itemize}
+
+
+
+
+
+\section{\sc Course \\ Projects}
+{\bf Bayesian Speaker Verification using Heavy Tailed Priors} \hfill {\it EE 761: Advanced Concentration Inequalities} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~jayakrishnan.nair/}{\textcolor{blue}{Prof. Jayakrishnan Nair}}, Electrical Engineering, IIT Bombay \hfill Autumn 2018-19} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We investigated a paradigm for training and analyzing errors in deep neural networks in terms of the information bottleneck principle, viewing layers as successive refinements of features.
+\end{list1}
+
+% \vspace*{-0.05in}
+
+{\bf Speech Enhancement using Weiner Filter} \hfill \textit{EE638: Estimation and Identification} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/dc}{\textcolor{blue}{Prof. Debraj Chakraborty}}, Electrical Engineering, IIT Bombay \hfill Autumn 2018-19} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We implemented Spectral Subtraction and Wiener Filtering for noise suppresion in speech signals and performed a comparative analysis of both these methods to commented on their pecularities
+\end{list1}
+% \vspace*{-0.05in}
+
+{\bf Evaluation of Robustness of Neural Nets} \hfill {\it EE 769: Machine Learning} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~asethi/}{\textcolor{blue}{Prof. Amit Sethi}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We implemented and compared few adversarial example generation algorithms to prove that the defensive distillation security for neural networks is not secure for a certain attack algorithms.
+\end{list1}
+
+% \vspace*{-0.05in}
+
+{\bf Exploring Wavelet Transfrom inspired MIR techniques} \hfill \textit{EE638: Digital Signal Processing} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/vmgadre}{\textcolor{blue}{Prof. Vikram Gadre}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We explored wavelet transform inspired techniques for tempo extraction from audio signals
+\end{list1}
+
+% \vspace*{-0.05in}
+
+{\bf Single Image Haze Removal Using Dark Channel Prior} \hfill \textit{CS663: Digital Image Processing} \\
+{\em Guide: \href{https://www.cse.iitb.ac.in/~suyash}{\textcolor{blue}{Prof. Suyash Awate}} \& \href{https://www.cse.iitb.ac.in/~ajitvr}{\textcolor{blue}{Prof. Ajit Rajwade}}, CSE, IITB \hfill Autumn 2017-18} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We implemented dehazing of images using dark channel prior. Paper: \textit{"Single Image Haze Removal Using Dark Channel Prior" by Kaiming He, Jian Sun, and Xiaoou Tang.} 
+\end{list1}
+
+% \vspace*{-0.05in}
+
+{\bf PPG Signal Acquisition Module} \hfill \textit{EE344: Electronic Design Lab} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~pcpandey/}{\textcolor{blue}{Prof. P.C.Pandey}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We designed and built a hardware module for faithful acquisition of the PPG signal. We implemented Baseline Restoration of the signal and auto-LED intensity control. We also provided bluetooth based connectivity to display the signal on smartphone and laptop
+\end{list1}
+
+
+{\bf Processor Design} \hfill \textit{EE309: Microprocessors} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~viren/}{\textcolor{blue}{Prof. Virendra Singh}}, EE, IITB \hfill Autumn 2017-18} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] We designed, simulated and implemented a {\textcolor{blue} {multi-cycle RISC processor}} following the LC-3b ISA. Also, we designed and simulated a {\textcolor{blue} {pipelined RISC processor}}m using the Little Computer ISA.
+\end{list1}
+
+
+% \vspace*{-0.05in}
+
+\section{\sc Achievements \\ and Awards}
+\begin{list2}
+\item Represented India at the \href{http://www.ioaa2012.ufrj.br/}{\textcolor{blue} {$6^\text{th}$ International Olympiad on Astronomy and Astrophysics}}, Brazil, 2012. Won a Gold Medal with International Rank 4 and a special prize for Best Data Analysis
+\item Represented India at the \href{http://www.ieso2011.unimore.it/}{\textcolor{blue} {$5^\text{th}$ International Earth Sciences Olympiad}}, Italy, 2011. Won a Bronze Medal and prizes for best performance in the Hydrosphere section and the team presentation
+\end{list2}
+
+\section{\sc Key Talks \\ and Seminars}
+
+{\bf Sign Language Translation musing Deep LSTM \& 3D ResNet Networks} \hfill {\em Internship Talk} \\
+{\em \href{http://www.jp.honda-ri.com/en/}{\textcolor{blue}{Honda Research Institute, Saitama, Japan}} \hfill July 2018} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] I presented results of my summer internship at HRI. The talk included a detailed description of the designed model, discussion of the results future improvisations. 
+% Presentation \href{http://alankarkotwal.github.io/intern_presentation.pptx}{\textcolor{blue} {here}}.
+\end{list1}
+
+\vspace*{-0.1in}
+
+
+% \section{\sc Mentoring Experience}
+% \textbf{Teaching Assistant for IITB Courses}
+% \begin{list1}
+% \item[] CS663: Digital Image Processing \hspace{0.5cm} \href{https://www.cse.iitb.ac.in/~suyash}{\textcolor{blue}{Prof. S. Awate}} \& \href{https://www.cse.iitb.ac.in/~ajitvr}{\textcolor{blue}{Prof. A. Rajwade}} \hfill{\textit{Autumn 2015-16}}
+% \item[] CS736: Medical Image Processing \hspace{2cm} \href{https://www.cse.iitb.ac.in/~suyash}{\textcolor{blue}{Prof. S. Awate}}\hfill{\textit{Spring 2015-16}}
+% \item[] EE638: Estimation and Identification \hspace{1.25cm} \href{https://www.ee.iitb.ac.in/course/~ee638/Navin}{\textcolor{blue}{Prof. N. Khaneja}}\hfill{\textit{Autumn 2016-17}}
+% \item[] EE708: Information Theory and Coding \hspace{0.87cm} \href{https://www.ee.iitb.ac.in/wiki/faculty/bsraj}{\textcolor{blue}{Prof. S. B. Pillai}}\hfill{\textit{Spring 2016-17}}
+% \end{list1}
+
+% \vspace*{-0.1in}
+
+% \textbf{Resource Person, Indian Astronomy Olympiad Programme} \hfill \textit{May 2013, May 2014} \\
+% \vspace*{-.15in}
+% \begin{list1}
+% \item[] Selected twice as a resource person for Indian Astronomy Olympiad Camps, to mentor students for their selection to the International Astronomy Olympiads. Involved in mentoring 100-odd high school students in astronomy, and in setting up challenging questions and evaluating them.
+% \end{list1}
+
+\section{\sc Key \\Coursework} 
+\begin{list1}
+
+\item[\strut\hspace{0.5cm}\hypertarget{crselst}{\textbf{Electrical Engineering and Computer Sciences}}]
+\item[]\textit{Estimation \& Identification, Adaptive \& Digital Signal Processing, Speech Processing, Machine Learning, Matrix Computations, Information Theory, Advanced Concentration Inequalities, Advanced Probability, Neuromorphic Engineering Communication Networks, Digital Image Processing}
+\vspace{0.05in}
+\item[\strut\hspace{0.5cm}\textbf{Physics and Mathematics}]
+\vspace{0.05in}
+\item[]\textit{Differential Equations, Linear Algebra, Complex Analysis, Calculus, Electriocity and Magentism, Quantum Physics}
+\item[\strut\hspace{0.5cm}\textbf{Other}]
+\vspace{0.05in}
+\item[]\textit{Movement Neuroscience, Mathematical Structures for Systems \& Control}
+
+\end{list1}
+
+\section{\sc Technical \\Skills} 
+\begin{tabular}{@{}p{1.3in}p{4.3in}}
+\textbf{Programming} & Python, C/C++, Matlab, Verilog, HTML/CSS, \LaTeX \\  
+\vspace*{-0.06in}
+\textbf{Software Packages} & 
+\vspace*{-0.06in} OpenCV \\ 
+\vspace*{-0.06in}
+\textbf{Science Software} &
+\vspace*{-0.06in}
+Python packages: NumPy, SciPy and Matplotlib, TensorFlow, Scikit-learn \\
+\vspace*{-0.06in}
+\textbf{Hardware} &
+\vspace*{-0.06in}
+\textit{Microprocessors:} 8051, 8085, AVR and PIC and CPLDs, \textit{Embedded Platforms:} Arduino, Raspberry Pi \\     
+\end{tabular}
+
+\section{\sc Extra-curricular \\ activities}
+\lettrine[lines=2]{O}{ther} than my academic interests, I like gardening long walks, trekking, socializing, cooking good food and eating it. I especially enjoy classic rock music and people who enjoy my interests. I read Jane Austen, Arundhati Roy, Franz Kafka, etc. I also Love to recite poems by Dylan Thomas, Auden, Gulzar, William Ernst Henry etc.
+
+% \section{\sc References}
+% \begin{tabular}{@{}p{3in}p{3in}}
+% \textbf{Prof. Suyash Awate}, CSE & \textbf{Prof. Ajit Rajwade}, CSE \\ 
+% IITB $|$ \href{mailto:suyash@cse.iitb.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{https://www.cse.iitb.ac.in/~suyash}{\textcolor{blue}{Webpage}} & IITB $|$ \href{mailto:ajitvr@cse.iitb.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{https://www.cse.iitb.ac.in/~ajitvr}{\textcolor{blue}{Webpage}} \\
+% \end{tabular}
+% \vspace{-0.15in}
+
+% \begin{tabular}{@{}p{3in}p{3in}}
+% \textbf{Dr. Sebastian Scherer}, Robotics Institute & \textbf{Ashutosh Richhariya}, Ophthalmic Biophysics \\ 
+% CMU $|$ \href{mailto:basti@andrew.cmu.edu}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.ri.cmu.edu/person.html?person_id=1397}{\textcolor{blue}{Webpage}} & LVPEI $|$ \href{mailto:ashutosh@lvpei.org}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.lvpei.org/our-team/our-team-ashutosh.php}{\textcolor{blue}{Webpage}} \\
+% \end{tabular}
+% \vspace{-0.15in}
+
+% \begin{tabular}{@{}p{3in}p{3in}}
+% \textbf{Prof. Mayank Vahia}, Astrophysics & \textbf{Dr. Aniket Sule}, Astronomy \\
+% TIFR $|$ \href{mailto:vahia@tifr.res.in}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.tifr.res.in/~vahia/}{\textcolor{blue}{Webpage}} & HBCSE--TIFR $|$ \href{mailto:anikets@hbcse.tifr.res.in}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.hbcse.tifr.res.in/people/academic/aniket-sule}{\textcolor{blue}{Webpage}} \\
+% \end{tabular}
+% \vspace{-0.15in}
+
+% \begin{tabular}{@{}p{3in}p{3in}}
+% \textbf{Prof. Rajbabu Velmurugan}, EE & \textbf{Dr. Manojendu Choudhury}, Astrophysics \\
+% IITB $|$ \href{mailto:rajbabu@ee.iitb.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{https://www.ee.iitb.ac.in/web/faculty/homepage/rajbabu}{\textcolor{blue}{Webpage}} & UM--DAE CBS $|$ \href{mailto:manojendu@cbs.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.cbs.ac.in/people/physics-faculty/manojendu-choudhury}{\textcolor{blue}{Webpage}} \\
+% \end{tabular}
+% \vspace{-0.15in}
+
+% %\begin{tabular}{@{}p{3in}p{3in}}
+% %\textbf{Prof. Rajbabu Velmurugan}, EE & \textbf{Dr. Manojendu Choudhury}, Astrophysics \\
+% %IITB $|$ \href{mailto:rajbabu@ee.iitb.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{https://www.ee.iitb.ac.in/web/faculty/homepage/rajbabu}{\textcolor{blue}{Webpage}} & UM--DAE CBS $|$ \href{mailto:manojendu@cbs.ac.in}{\textcolor{blue}{E--Mail}} $|$ \href{http://www.cbs.ac.in/people/physics-faculty/manojendu-choudhury}{\textcolor{blue}{Webpage}} \\
+% %\end{tabular}
+
+\end{resume}
+\end{document}
