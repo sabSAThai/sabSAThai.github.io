@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi! I am a fourth year undergraduate at Electrical Engineering, IIT Bombay. Interested in the fundamental questions surrounding us. I am fascinated by human brain. My research interests include audio processing and computational nueroscience. I identify myself as a staunch Nihilist and I try to promote cheerful Nihilism around. To know more, do read my blogs :)  
+  desc: Hi! I am a fourth year undergraduate at Electrical Engineering, IIT Bombay. Interested in the fundamental questions surrounding us. I am fascinated by human brain. My research interests include audio processing and computational nueroscience. To know more, do read my blogs :)
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #   name: Pranav Sankhe
