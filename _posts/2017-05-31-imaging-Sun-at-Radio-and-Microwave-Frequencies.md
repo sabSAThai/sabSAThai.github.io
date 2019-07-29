@@ -277,8 +277,9 @@ When you observe the sun, these regions appear darker than the surrounding area 
     <script src="{{site.url}}/js/inlineDisqussions.js"></script>
     <script src="{{site.url}}/js/toc.js"></script>
 
-
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>    
 
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
@@ -288,10 +289,12 @@ When you observe the sun, these regions appear darker than the surrounding area 
         }
       });
     </script>
+
+
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
     
-    <script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>    
+
 
     <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
     <!-- comment -->
