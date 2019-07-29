@@ -254,48 +254,45 @@ When you observe the sun, these regions appear darker than the surrounding area 
 
 <script src="{{site.url}}/js/inlineDisqussions.js"></script>
 <script src="{{site.url}}/js/disqus.js"></script>
-                            </div>
-                        </div>
-                        <div class="col-md-4" id="toc-wrapper">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    <!-- jQuery-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
-
-    <script src="{{site.url}}/bootstrap/js/bootstrap.min.js"></script>
-
-    <script src="{{site.url}}/highlight/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-
-    <script src="{{site.url}}/js/footnotes.js"></script>
-    <script src="{{site.url}}/js/bootstrap-carousel.js"></script>
-    <script src="{{site.url}}/js/inlineDisqussions.js"></script>
-    <script src="{{site.url}}/js/toc.js"></script>
-
-    <script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>    
-
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          processEscapes: true
-        }
-      });
-    </script>
+</div>
+</div>
+<div class="col-md-4" id="toc-wrapper">
+</div>
 
 
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- jQuery-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 
-    
+<script src="{{site.url}}/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="{{site.url}}/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script src="{{site.url}}/js/footnotes.js"></script>
+<script src="{{site.url}}/js/bootstrap-carousel.js"></script>
+<script src="{{site.url}}/js/inlineDisqussions.js"></script>
+<script src="{{site.url}}/js/toc.js"></script>
+
+<script type="text/javascript"
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>    
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
 
 
-    <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
-    <!-- comment -->
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+
+<noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
+<!-- comment -->
 
