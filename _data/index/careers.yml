@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+
+- name:
+    detail: CoGMIR, SMPC New York
+    i18n: company__d
+  desc:
+    detail: First Research Paper Accepted!
+    i18n: company_d_desc
+  date:
+    detail: May. 2019
+    i18n: company_d_date
+  job:
+    detail: An Information Theoretical Aproach towards the Reconstruction of Tempo from EEG Responses
+    i18n: company_d_job
+  icon: fa-plus-square    
+
 - name:
     detail: IIT Bombay
     i18n: company__d
