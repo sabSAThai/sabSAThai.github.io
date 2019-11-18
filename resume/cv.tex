@@ -10,14 +10,13 @@
 \evensidemargin = -.5in
 \topmargin = -0.5in
 \textheight = 9.75in
-
 \textwidth = 6.0in
 \itemsep=0in
 \parsep=0in
 % if using pdflatex:
 %\setlength{\pdfpagewidth}{\paperwidth}
 %\setlength{\pdfpageheight}{\paperheight} 
-
+% 
 \newenvironment{list1}{
   \begin{list}{\ding{113}}{%
       \setlength{\itemsep}{0in}
@@ -30,21 +29,29 @@
       \setlength{\parsep}{0in} \setlength{\parskip}{0in}
       \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
       \setlength{\leftmargin}{0.2in}}}{\end{list}}
-
+% 
 \tolerance=1
 \emergencystretch=\maxdimen
 \hyphenpenalty=10000
 \hbadness=10000
-
+% 
 \pagenumbering{gobble}
-
-
+% 
+% 
 \begin{document}
-
-
+% 
+% 
 \name{\textbf{\huge{Pranav Sankhe}} \vspace*{.1in} }
-
+% 
 \begin{resume}
+
+\section{\sc General Information}
+\vspace{0.05in}
+\begin{tabular}{@{}p{2.9in}p{.5in}p{3in}}
+\textbf{Nationality:} Indian \\ 
+\textbf{DOB:} $10^{th}$ January, 1998
+\end{tabular}
+
 \section{\sc Contact Information}
 \vspace{.05in}
 \begin{tabular}{@{}p{2.9in}p{.5in}p{3in}}
@@ -53,31 +60,36 @@ Indian Institute of Technology Bombay &\multicolumn{1}{r}{\it E--Mail:}& \href{m
 \#132, Hostel 07, IIT Bombay & & \href{mailto:pranavsankhe40@gmail.com}{\textcolor{blue}{pranavsankhe40@gmail.com}} \\ 
 Powai, Mumbai, India 400 076 & \multicolumn{1}{r}{\it Webpage:} &\href{https://sabsathai.github.io}{\textcolor{blue}{https://sabsathai.github.io}} \\     
 \end{tabular}
-
+% 
 \section{\sc Research Interests}
-I am passionate about Time Series Processing (Video Processing, Audio Processing, Wireless Communication, Music Transcription), Machine Learning (Deep Learning Models, Bayesian inference), and Computational Neuroscience. I am interested in fundamental questions which surround us.
-
+My research interests include but aren't limited to Time Series Processing (Video Processing, Audio Processing, Wireless Communication, Music Transcription), Machine Learning (Deep Learning Models, Bayesian statistics), Computer Vision and Computational Neuroscience. I am interested in fundamental questions which surround us.
+% 
 \section{\sc Education}
 {\bf \href{http://www.iitb.ac.in/}{\textcolor{blue}{Indian Institute of Technology Bombay}}}, Mumbai, India \hfill {\it July 2015 -- Present} \\
 \vspace*{-.13in}
 \begin{list1}
-\item[] Fourth Year, Dual Degree (Bachelor \& Master of Technology), Department of \href{http://www.ee.iitb.ac.in/}{\textcolor{blue}{Electrical Engineering}}
-\item[] Specialization: {\em Communication \& Signal Processing}
+\item[] Final Year, Dual Degree (Bachelor \& Master of Technology), Department of \href{http://www.ee.iitb.ac.in/}{\textcolor{blue}{Electrical Engineering}}
+\item[] Specialization: {\em Signal Processing \& Communication}
 \end{list1}
-
-\section{\sc Publications \\ and Patents}
+% 
+\section{\sc Publications}
 \begin{list2}
-\item \textbf{Publication:} Sankhe, P., Azim, S., Goyal, S., Et al., {\em Indoor Positioning System using LSTMs over WLAN Network}. Submitted to \href{https://wpnc.info}{\textcolor{blue}{IEEE WPNC 2019}}.
-
-\item \textbf{Publication:} Agrim Gupta, Pranav Sankhe, Et al., {\em Predictive Quantization for MIMO-OFDM SVD Precoders using Reservoir Computing Framework}. Submitted to \href{https://globecom2019.ieee-globecom.org}{\textcolor{blue} {IEEE Globalcom 2019}}.
-
-\item \textbf{Publication:} Pranav Sankhe {\em An Information Theoretical Approach Towards the Reconstruction of Tempo from EEG Responses}. Accepted at \href{http://www.cogmir.org}{\textcolor{blue} {CogMIR 2019}}.
-
-\item \textbf{Publication:} Pranav Sankhe, Animesh Kumar {\em Graph Independent Component Analysis on EEG data to find Auditory Cortical Regions}. Submitted to \href{https://gbiomed.kuleuven.be/english/research/50000666/50000672/Symposia/aesop/AESOP2019}{\textcolor{blue} {AESOP 2019}}.
-
-\item \textbf{Patent:} “Indoor Positioning System using LSTMs over WLAN Network”, December 2018, \href{http://www.ipindia.nic.in}{\textcolor{blue} {Indian Patent Office}}, Mumbai.
-
-
+\item Pranav Sankhe, {\em An Information Theoretical Approach Towards the Reconstruction of Tempo from EEG Responses}. Accepted at \textbf{CogMIR 2019}. \emph{Awarded the Best Paper Award}
+%
+\item Pranav Sankhe, Animesh Kumar {\em Cortical Representations of Auditory Perception using Graph Independent Component Analysis on EEG}. Accepted at \textbf{AESOP 2019}.
+%
+\item Sankhe, P., Azim, S., Goyal, S., Et al., {\em Indoor Positioning System using LSTMs over WLAN Network}. Accepted at \textbf{IEEE WPNC 2019.}
+%
+\item Agrim Gupta, Pranav Sankhe, Et al., {\em Predictive Quantization for MIMO-OFDM SVD Precoders using Reservoir Computing Framework}. Submitted to \textbf{Wireless Letters.}
+%
+%
+\end{list2}
+%
+\section{\sc Patents}
+\begin{list2}
+\item {Filed a patent,\em “Indoor Positioning System using LSTMs over WLAN Network”}, December 2018, \textbf{Indian Patent Office}, Mumbai.
+%
+% \item \textbf{Patent:} “Predictive Quantization for MIMO-OFDM SVD Precoders using Reservoir Computing Framework”, June 2019, \href{http://www.ipindia.nic.in}{\textcolor{blue} {Indian Patent Office}}, Mumbai.
 \end{list2}
 
 \section{\sc Research Internships}
@@ -93,7 +105,7 @@ I am passionate about Time Series Processing (Video Processing, Audio Processing
 \item Significantly decreased the computation time by implementing ResNet 3D Convolutions
 \item Used 2 channel Optical Flow of the videos as the input for the learning architecture
 \end{list2}
-
+% 
 \section{\sc Industry Internships}
 {\bf \href{http://arrowai.com}{\textcolor{blue} {Arrow AI}}, {\textcolor{blue}{A Mumbai based AI Start-Up}}}  \hfill {\it Dec'16-Jan'17} \\
 \textbf{Developing APIs for commercial applications of \emph{Machine Learning} in \emph{TensorFlow}}\\
@@ -104,7 +116,9 @@ I am passionate about Time Series Processing (Video Processing, Audio Processing
 \item Implemented an API to scrape transaction details from online PDF bank statements
 \item Developed an algorithm to estimate the path of consumers in stores using \emph{OpenCV} 
 \end{list2}
-
+% 
+% 
+% 
 \section{\sc Research Projects}
 {\bf Indoor Positioning System using LSTMs over WLAN Network} \\
 {\em Guide: \href{http://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php}{\textcolor{blue}{Prof. Srikant Sukumar}}, System and Controls, IIT Bombay} \hfill{\it Jan'16 -- Aug'18} \\
@@ -113,13 +127,38 @@ I am passionate about Time Series Processing (Video Processing, Audio Processing
 \item QuarterFinalist of \href{https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/}{\textcolor{blue} {India Innovation Challenge}} conducted by DST \& Texas Instruments
 \item Designed and developed a self-adaptive WiFi based system to localize in indoor environments
 \item Proposed a set-up of stationary WiFi nodes to model the multipath fading and shadowing effects
-\item Used an LSTM network for time series modeling of received signal strength values to estimate the distance
-of a target object from the reference node
-\item Achieved state of the art accuracy of $5 cms$ on a range of $10 m$ with a confidence interval of $93\%$ significantly advancing the previous state of art accuracy which was $40 cms$
+\item Used an LSTM network for time series modeling of received signal strength values to estimate the distance of a target object from the reference node
+\item Achieved state of the art accuracy of $5.85 cms$ on a range of $10 m$ with a confidence interval of $93\%$ significantly advancing the previous state of art accuracy which was $40 cms$
 \item Filed a patent at the Indian Patent Office and submitted a publication at the  \href{https://wpnc.info}{\textcolor{blue}{IEEE WPNC 2019}}
-
+\end{list2}
+% 
+{\bf Information Theory Approach for Music Reconstrution} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/chaporkar}{\textcolor{blue}{Prof. Prasanna Chaporkar}}, Electrical Engineering, IIT Bombay} \hfill {\it Dec'18 - May'19}\\
+\vspace*{-.13in}
+\begin{list2}
+\item Modeled the process of hearing and measurement of EEG as a non-linear communication channel
+\item The EEG potential is modeled as a Multidimensional Gaussian Mixture Model
+\item Used Mutual Entropy(MI) between the input and output to quantify information transfer
+\item Established bounds on the input stimuli structure for reconstruction
+\item Identified coherent cortical regions involved in hearing and music perception tasks
+\item Publication accepted at \href{http://www.cogmir.org}{\textcolor{blue} {CogMIR 2019}} and awarded the \textbf{Best Student Paper} Award
+\end{list2}
+% 
+% 
+% 
+% 
+{\bf Graph Independent Component Analysis on EEG data to find Auditory Cortical Regions} \\
+{\em Guide: \href{https://www.ee.iitb.ac.in/~animesh/}{\textcolor{blue}{Prof. Animesh Kumar}}, Electrical Engineering, IIT Bombay} \hfill {\it Aug'18 - June'19}\\
+\vspace*{-.13in}
+\begin{list2}
+\item Modelled the recorded brain activity data(EEG) as Graph Structure(adjacency matrix)
+\item Constructed and applied Graph Independent Component Analysis to find subnetworks which underly the cognitive processes
+\item Identified the most active subnetwork corresponding to hearing and music perception task and found the results to be in coherence with neuroscientific literature
+\item Discovered the variation of subnetworks and their weights with change in music stimuli thus providing new insights on music perception
+\item Publication submitted to \href{https://gbiomed.kuleuven.be/english/research/50000666/50000672/Symposia/aesop/AESOP2019}{\textcolor{blue} {AESOP 2019}}
 \end{list2}
 
+% 
 {\bf Generating Adversarial attacks on Image Segmentation Neural Networks} \\
 {\em Guide: \href{https://people.eecs.berkeley.edu/~dawnsong/}{\textcolor{blue}{Prof. Dawn Song}},\href{https://bair.berkeley.edu}{\textcolor{blue}{ Berkeley Artificial Intelligence Research Lab}}} \hfill {\it Sept'17 - Feb'18}\\
 \vspace*{-.13in}
@@ -128,32 +167,26 @@ of a target object from the reference node
 \item Implemented the Dense Adversary Generation algorithm to generate adversarial examples
 \item Achieved an accuracy drop from 68.28 $\%$ to 8.06$\%$ thus pointing at the loopholes in the state of the art segmentation network
 \end{list2}
-
+% 
+% 
+% 
+% 
 {\bf Polyphonic Transcription for Percussive Recordings using Deep CRNNs} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/prao}{\textcolor{blue}{Prof. Preeti Rao}}, Electrical Engineering, IIT Bombay} \hfill {\it Aug'18 - June'19}\\
 \vspace*{-.13in}
 \begin{list2}
 \item Employed a two-stream network to predict the onsets and tabla \textit{bols} jointly
-\item Implemented a dual objective  Convolutive Recurrent Neural Network for transcription
+\item Implemented a dual objective Convolutive Recurrent Neural Network for transcription
 \item CNNs were used to build the acoustic model and Bidirectional LSTMs for sequential modeling
 \item Augmented the \textit{Tabla Solo Dataset} by varying the beat cycles and tempo of the recordings
 \item Achieved state of the art F-measure of $0.97$ resulting in a near-perfect transcription system
 \item Achieved an F-measure of $0.66$ on drum recordings using Non-Negative Matrix Factorization
 \end{list2}
-
-{\bf Information Theory Approach for Music Reconstrution} \\
-{\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/chaporkar}{\textcolor{blue}{Prof. Prasanna Chaporkar}}, Electrical Engineering, IIT Bombay} \hfill {\it Dec'18 - May'19}\\
-\vspace*{-.13in}
-\begin{list2}
-\item Modeled the process of hearing and measurement of EEG as a non-linear communication channel
-\item The input to the channel is the tempo value, and the output is the recorded EEG potential
-\item The EEG potential is modeled as a Multidimensional Gaussian Mixture Model
-\item Used Mutual Entropy(MI) between the input and output as a metric of information transfer
-\item The computed MI value enforces bounds on the input music stimuli structure for reconstruction
-\item Publication accepted at \href{http://www.cogmir.org}{\textcolor{blue} {CogMIR 2019}}
-\end{list2}
-
-
+% 
+% 
+% 
+% 
+% 
 {\bf Predictive Quantization for MIMO-OFDM SVD Precoders using Reservoir Computing Framework} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/web/people/faculty/home/manojg}{\textcolor{blue}{Prof. Manoj Gopalkrishnan}}, Electrical Engineering, IIT Bombay} \hfill {\it Aug'18 - May'19}\\
 \vspace*{-.13in}
@@ -162,29 +195,23 @@ of a target object from the reference node
 \item Implemented a reservoir computing framework to quantize precoding matrices
 \item The reservoir computing frameworks utilize the temporal correlations in the precoders
 \item Our approach achieved reduced quantization and lower BER compared to earlier work
-\item Our approach also significantly reduced the power consumption in the 5G transmission arena
+\item Our approach also significantly reduced the power consumption during transmission
 \item Publication submitted to \href{https://globecom2019.ieee-globecom.org}{\textcolor{blue} {IEEE Globalcom 2019}}
 \end{list2}
-
-
-{\bf Graph Independent Component Analysis on EEG data to find Auditory Cortical Regions} \\
-{\em Guide: \href{https://www.ee.iitb.ac.in/~animesh/}{\textcolor{blue}{Prof. Animesh Kumar}}, Electrical Engineering, IIT Bombay} \hfill {\it Aug'18 - June'19}\\
-\vspace*{-.13in}
-\begin{list2}
-\item Modelled the recorded brain activity data(EEG) as graphs(adjacency matrix)
-\item Constructed and applied Graph Independent Component Analysis to find subnetworks which underly the cognitive processes
-\item Identified the most active subnetwork corresponding to hearing and music perception task and found the results to be in coherence with biology
-\item Publication submitted to \href{https://gbiomed.kuleuven.be/english/research/50000666/50000672/Symposia/aesop/AESOP2019}{\textcolor{blue} {AESOP 2019}}
-\end{list2}
-
+% 
+% 
+% 
+% 
+% 
 {\bf Tempo Estimation of music recordings from correspoding EEG signals} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/~gskasbekar/}{\textcolor{blue}{Prof. Gaurav Kasbekar}}, Electrical Engineering, IIT Bombay} \hfill {\it July'17 - Dec'17}\\
 \vspace*{-.13in}
 \begin{list2}
 \item Implemented tempogram estimation using autocorrelation technique on EEG signal
+\item Evaluated and compared time-frequency representations of EEG and audio signals 
 \item Estimated the tempo of the music recordings to an accuracy of 1 bpm from the EEG data
 \end{list2}
-
+% 
 {\bf Corrupted Speech Processing using Perceptive Models and Spiking Neural Networks} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/udayan}{\textcolor{blue}{Prof. Udayan Ganguly}}, Electrical Engineering, IIT Bombay} \hfill {\it Aug'18 - Dec'18}\\
 \vspace*{-.13in}
@@ -193,12 +220,10 @@ of a target object from the reference node
 \item Implemented a $2$ layered Spiking Neural Network to separate speech from the background noise
 \item Synthesized source audio by applying the learned mask on the original audio input
 \end{list2}
-
+% 
 % \newpage
-
-
-
-{\bf Developing a complete TV Audience evaluation system} \\
+% 
+{\bf Developed a complete TV Audience evaluation system using Computer Vision and DNNs} \\
 {\em A problem statement given by \href{https://www.barcindia.co.in}{\textcolor{blue}{BARC India}} as a part of $7^{th}$ Inter IIT Tech Meet} \hfill {\it Dec'18}\\
 \vspace*{-.13in}
 \begin{list2}
@@ -216,17 +241,17 @@ of a target object from the reference node
 \item Obtained trajectory of rays in the solar coronal atmosphere in the plasma environment
 \item Using trajectory of rays and \emph{Radiative Transfer Theory} obtained the solar temperature profile
 \end{list2}
-
-
-{\bf Member of Advitiya} \\
-{\em Advitiya is the 2nd student satellite of IITB} \hfill {\it Apr'17-Present}\\
+% 
+% 
+{\bf Member of Advitiy} \\
+{\em Advitiy is the 2nd student satellite of IITB} \hfill {\it Apr'17 -- Oct '17}\\
 \vspace*{-.13in}
 \begin{list2}
 \item Analyzed \emph{Astronomical Image Compression Algorithms} to decide the optimum algorithm
 \item Implemented \emph{Embedded C} code to enable \emph{ISP} on-satellite programming of microcontrollers
 \end{list2}
-
-
+% 
+% 
 {\bf Modelling High Electron Mobility Transistors with Parasitic Capacitance} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/dsaha}{\textcolor{blue}{Prof. Dipankar Saha}}, Electrical Engineering, IIT Bombay} \hfill {\it Apr'16-Oct'16}\\
 \vspace*{-.13in}
@@ -234,10 +259,10 @@ of a target object from the reference node
 \item Analysed \emph{fringing effects} to model the resulting parasitic capacitance at scales of $10^\text{-12}$ 
 \item Modelled the current-voltage characteristics of \emph{high frequency transistors} to emphasize the significance of parasitic capacitance in their performance
 \end{list2}
-
-
-
-
+% 
+% 
+% 
+% 
 \section{\sc Course \\ Projects}
 {\bf Bayesian Speaker Verification using Heavy Tailed Priors} \hfill {\it EE 761: Advanced Concentration Inequalities} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/~jayakrishnan.nair/}{\textcolor{blue}{Prof. Jayakrishnan Nair}}, Electrical Engineering, IIT Bombay \hfill Autumn 2018-19} \\
@@ -245,9 +270,9 @@ of a target object from the reference node
 \begin{list1}
 \item[] Investigated change in the performance of the speaker verification system by using heavy-tailed priors instead of Gaussian priors. Variational Bayes method was used to evaluate the posterior probabilities and compute the likelihoods. Paper: \textit{"Bayesian Speaker Verification with Heavy-Tailed Priors" by Patrick Kenny, CRIM.} 
 \end{list1}
-
+% 
 % \vspace*{-0.05in}
-
+% 
 {\bf Speech Enhancement using Weiner Filter} \hfill \textit{EE638: Estimation and Identification} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/dc}{\textcolor{blue}{Prof. Debraj Chakraborty}}, Electrical Engineering, IIT Bombay \hfill Autumn 2018-19} \\
 \vspace*{-.15in}
@@ -255,66 +280,73 @@ of a target object from the reference node
 \item[] We implemented Spectral Subtraction and Wiener Filtering for noise suppression in speech signals and performed a comparative analysis of both these methods to comment on their peculiarities
 \end{list1}
 % \vspace*{-0.05in}
-
+% 
 {\bf Evaluation of Robustness of Neural Nets} \hfill {\it EE 769: Machine Learning} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/~asethi/}{\textcolor{blue}{Prof. Amit Sethi}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
 \vspace*{-.15in}
 \begin{list1}
 \item[] We implemented and compared few adversarial example generation algorithms to prove that the defensive distillation security for neural networks is not secure for certain attack algorithms. Paper: \textit{"Towards Evaluating the Robustness of Neural Networks" by Nicholas Carlini David Wagner, University of California, Berkeley} 
-
 \end{list1}
-
+% 
 % \vspace*{-0.05in}
-
+% 
 % {\bf Exploring Wavelet Transfrom inspired MIR techniques} \hfill \textit{EE638: Digital Signal Processing} \\
 % {\em Guide: \href{https://www.ee.iitb.ac.in/wiki/faculty/vmgadre}{\textcolor{blue}{Prof. Vikram Gadre}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
 % \vspace*{-.15in}
 % \begin{list1}
 % \item[] We explored wavelet transform inspired techniques for tempo extraction from audio signals
 % \end{list1}
-
+% 
 % \vspace*{-0.05in}
-
+% 
 {\bf Single Image Haze Removal Using Dark Channel Prior} \hfill \textit{CS663: Digital Image Processing} \\
 {\em Guide: \href{https://www.cse.iitb.ac.in/~suyash}{\textcolor{blue}{Prof. Suyash Awate}} \& \href{https://www.cse.iitb.ac.in/~ajitvr}{\textcolor{blue}{Prof. Ajit Rajwade}}, CSE, IITB \hfill Autumn 2017-18} \\
 \vspace*{-.15in}
 \begin{list1}
 \item[] We implemented dehazing of images using dark channel prior. Paper: \textit{"Single Image Haze Removal Using Dark Channel Prior" by Kaiming He, Jian Sun, and Xiaoou Tang.} 
 \end{list1}
-
+% 
 % \vspace*{-0.05in}
-
+% 
 {\bf PPG Signal Acquisition Module} \hfill \textit{EE344: Electronic Design Lab} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/~pcpandey/}{\textcolor{blue}{Prof. P.C.Pandey}}, Electrical Engineering, IIT Bombay \hfill Spring 2017-18} \\
 \vspace*{-.15in}
 \begin{list1}
 \item[] We built a hardware module for faithful acquisition of the PPG signal.We implemented the Baseline Restoration of the signal, auto-LED intensity control, and bluetooth screen.
 \end{list1}
-
-
+% 
+% 
 {\bf Processor Design} \hfill \textit{EE309: Microprocessors} \\
 {\em Guide: \href{https://www.ee.iitb.ac.in/~viren/}{\textcolor{blue}{Prof. Virendra Singh}}, EE, IITB \hfill Autumn 2017-18} \\
 \vspace*{-.15in}
 \begin{list1}
 \item[] We designed, simulated and implemented a {\textcolor{blue} {multi-cycle RISC processor}} following the LC-3b ISA.
 \end{list1}
-
-
+% 
+% 
 % \vspace*{-0.05in}
-
+% 
 \section{\sc Key Talks \\ and Seminars}
-
+% 
 {\bf Sign Language Translation musing Deep LSTM \& 3D ResNet Networks} \hfill {\em Internship Talk} \\
-{\em \href{http://www.jp.honda-ri.com/en/}{\textcolor{blue}{Honda Research Institute, Saitama, Japan}} \hfill July 2018} \\
+{\em \href{http://www.jp.honda-ri.com/en/}{\textcolor{blue}{CogMIR 2019, New York City, USA}} \hfill Aug 2019} \\
 \vspace*{-.15in}
 \begin{list1}
 \item[] I presented results of my summer internship at HRI. The talk included a detailed description of the designed model, discussion of the results future improvisations. 
 % Presentation \href{http://alankarkotwal.github.io/intern_presentation.pptx}{\textcolor{blue} {here}}.
 \end{list1}
-
+% 
+{\bf An Information Theoretical Approach Towards the Reconstruction of Tempo from EEG Responses} \hfill {\em Conference Presentation} \\
+{\em \href{http://www.jp.honda-ri.com/en/}{\textcolor{blue}{Honda Research Institute, Saitama, Japan}} \hfill July 2018} \\
+\vspace*{-.15in}
+\begin{list1}
+\item[] I presented my research work on auditory cognition where we used an information theoretical model.
+% Presentation \href{http://alankarkotwal.github.io/intern_presentation.pptx}{\textcolor{blue} {here}}.
+\end{list1}
+% 
 \vspace*{-0.1in}
-
-
+% 
+% 
 % \section{\sc Mentoring Experience}
 % \textbf{Teaching Assistant for IITB Courses}
 % \begin{list1}
@@ -336,35 +368,30 @@ of a target object from the reference node
 \begin{list1}
 
 \item[\strut\hspace{0.5cm}\hypertarget{crselst}{\textbf{Electrical Engineering and Computer Sciences}}]
-\item[]Estimation \& Identification, Adaptive \& Digital Signal Processing, Speech Processing, Machine Learning, Matrix Computations, Recent Topics in Signal Processing, Advanced Topics in Signal Processing, Science of Information,Learning and Statistics, Advanced Concentration Inequalities, Advanced Probability, Neuromorphic Engineering, Communication Networks, Digital Image Processing
-\vspace{0.05in}
+\item[] Introduction to Machine Learning, First Course in Optimization, Estimation \& Identification, Advanced Topics in Signal Processing, Recent Topics in Signal Processing, Fundamentals of Digital Image Processing, Speech Processing, Matrix Computations, Advanced Probability, Science of Information,Learning and Statistics, Digital Signal Processing, Advanced Concentration Inequalities
+% \vspace{0.05in}
 \item[\strut\hspace{0.5cm}\textbf{Physics and Mathematics}]
 \vspace{0.05in}
 \item[]Differential Equations, Linear Algebra, Complex Analysis, Calculus, Electriocity and Magentism, Quantum Physics
 \item[\strut\hspace{0.5cm}\textbf{Other}]
 \vspace{0.05in}
 \item[]Movement Neuroscience, Mathematical Structures for Systems \& Control
-
 \end{list1}
 
-\section{\sc Technical \\Skills} 
+
+\section{\sc Technical \\Skills \& Courses}
 \begin{tabular}{@{}p{1.3in}p{4.3in}}
-\textbf{Programming} & Python, C/C++, Matlab, Verilog, HTML/CSS, \LaTeX \\  
-\vspace*{-0.06in}
-\textbf{Software Packages} & 
-\vspace*{-0.06in} OpenCV \\ 
-\vspace*{-0.06in}
-\textbf{Science Software} &
-\vspace*{-0.06in}
-Python packages: NumPy, SciPy and Matplotlib, TensorFlow, Scikit-learn \\
+\textbf{Programming} & Python, C/C++, Matlab, NumPy, SciPy and Matplotlib, TensorFlow, Scikit-learn, OpenCV,  HTML/CSS, \LaTeX \\  
 \vspace*{-0.06in}
 \textbf{Hardware} &
 \vspace*{-0.06in}
-\textit{Microprocessors:} 8051, 8085, AVR and PIC and CPLDs, \textit{Embedded Platforms:} Arduino, Raspberry Pi \\     
+\textit{Microprocessors:} 8051, 8085, AVR and PIC and CPLDs, \textit{Embedded Platforms:} Arduino, Raspberry Pi \\
+
 \end{tabular}
 
+
 \section{\sc Extra-curricular \\ activities}
-Other than my academic interests, I like gardening, trekking, astronomy. I especially enjoy classic rock and hindustani classical music and also people who enjoy my interests. I also love to read and recite classic english/hindi/urdu poetry.
+Other than my academic interests, I like gardening, trekking, astronomy. I especially enjoy classic rock and hindustani classical music. I also love to read and recite classic english/hindi/urdu poetry. I was a convener Convener of Institute Electronics Club where we organized 15+ events. I was part of a team which conducted 3 month long programming workshops for underprivileged kids.
 % \section{\sc References}
 % \begin{tabular}{@{}p{3in}p{3in}}
 % \textbf{Prof. Suyash Awate}, CSE & \textbf{Prof. Ajit Rajwade}, CSE \\ 

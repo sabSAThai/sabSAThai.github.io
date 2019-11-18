@@ -39,7 +39,7 @@ Thari-The Loom’ is a confluence of traditional practice informed by contempora
 
 
 <p style="font-family:FontAwesome;">
-Malavika Surakkai on her journey of embodiment towards attempting to explore the underlying subtle connections of rhythms between dance and other naturally embedded activities around says _"for as long as I remember the sari has been the part of my life. As a young dancer, the sari was a proclamation. When I draped it around my twelve-year-old body, I felt a new sense of purpose. As I grew up it became other things as well; something that spoke intensely of who I was. It wasn't simply a piece of cloth and unstitched garment. It was an emotion, a state of mind, sometimes a statement. The looms spoken rhythms that have always been a part of my life in dance, As I observed more attentively, the loom revealed other secrets as well. I saw connections there that linked it to poetry, music, myth and dance design. I learned of the war distort long vertical threads that mark the length of the sari and defined the core of the loom. They spoke to me of the constant and I heard in them the notes of Krishna's divine flute, essential and beckoning. I learned of the weft threads that cross and embrace the warp horizontally to create design, motive, and color. In the beginning, I thought of these conversations have been private. It's been something that spoke specifically to me but in time they demanded to be more widely heard and ever so instantly they became a movement, became a dance, became 'Thari, the Loom'"._ 
+Malavika Surakkai on her journey of embodiment towards attempting to explore the underlying subtle connections of rhythms between dance and other naturally embedded activities around says <i>"for as long as I remember the sari has been the part of my life. As a young dancer, the sari was a proclamation. When I draped it around my twelve-year-old body, I felt a new sense of purpose. As I grew up it became other things as well; something that spoke intensely of who I was. It wasn't simply a piece of cloth and unstitched garment. It was an emotion, a state of mind, sometimes a statement. The looms spoken rhythms that have always been a part of my life in dance, As I observed more attentively, the loom revealed other secrets as well. I saw connections there that linked it to poetry, music, myth and dance design. I learned of the war distort long vertical threads that mark the length of the sari and defined the core of the loom. They spoke to me of the constant and I heard in them the notes of Krishna's divine flute, essential and beckoning. I learned of the weft threads that cross and embrace the warp horizontally to create design, motive, and color. In the beginning, I thought of these conversations have been private. It's been something that spoke specifically to me but in time they demanded to be more widely heard and ever so instantly they became a movement, became a dance, became 'Thari, the Loom'".</i>
 </p>
 
 <p style="font-family:FontAwesome;">
@@ -52,31 +52,46 @@ Watching Malavika Sarukkai and troupe live was an experience in itself. Dance fu
 Along with the lovely Bharatnatyam performance, there was an exhibition of beautiful handwoven sarees from all over India along with their description. It was alluring to see so many varieties of sarees to which I was never exposed to before.  
 </p>
 
-Here are some clicks of the show: 
+<p style="font-family:FontAwesome;">Here are some clicks of the show:</p>
 
-Vidya Balan commemorating Malavika Surakkai
+<p style="font-family:FontAwesome;">Vidya Balan commemorating Malavika Surakkai</p>
 <div style="display: flex; justify-content: left;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/MS_vidya.jpg" alt='Vidya Balan commemorating Malavika Surakkai'  width="50%" height="50%" align="middle">
 </div>
 
 <br>
+<br>
+<br>
 
-<strong>Malavika Surakkai and troupe</strong>
+<p style="font-family:FontAwesome;">Malavika Surakkai and troupe</p>
 <div style="display: flex; justify-content: right;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/troupe.jpg" alt='Malavika Surakkai and troupe'  width="50%" height="50%" align="middle">
 </div>
+<br>
+<br>
+<br>
 
-<strong> Saree made of muslin cloth </strong>
+
+<p style="font-family:FontAwesome;">Saree made of muslin cloth</p>
 <div style="display: flex; justify-content: left;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/muslin.jpg" alt='muslin'  width="30%" height="30%" align="middle">
 </div>
 
-<strong>Paithani</strong>
+<br>
+<br>
+<br>
+
+
+<p style="font-family:FontAwesome;">Paithani</p>
 <div style="display: flex; justify-content: right;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paitahni_1.jpg" alt='Paithani'  width="30%" height="10%" style="float:left;" align="left">
 </div>
 
-<strong>Ayiram Butti Silk Saree</strong>
+<br>
+<br>
+<br>
+
+<p style="font-family:FontAwesome;">Ayiram Butti Silk Saree</p>
 <div style="display: flex; justify-content: left;">
 <img src="https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paithani_2.jpg" alt='paithani'  width="30%" height="10%" style="float:right;" align="right">
 </div>
