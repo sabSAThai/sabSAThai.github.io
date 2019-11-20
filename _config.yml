@@ -1,0 +1,36 @@
+# site settings
+title: Pranav
+subtitle: Sankhe
+email: pranavsankhe40@gmail.com
+description: 
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Hostel 18, IIT Bombay
+city: Mumbai
+state: 
+zip_code: 401303
+country: India
+phone: (91) 90292-04916
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: http://facebook.com/sabSAThai
+github_url: https://github.com/sabSAThai
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/pranav_sankhe/
+linkedin_url: http://linkedin.com/in/pranav-sankhe-913291177/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/pranav_sankhe
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

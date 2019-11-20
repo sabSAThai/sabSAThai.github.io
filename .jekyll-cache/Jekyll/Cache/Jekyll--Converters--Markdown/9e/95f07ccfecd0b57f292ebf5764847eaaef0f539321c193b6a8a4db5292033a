@@ -1,0 +1,12 @@
+I"X<p>Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, it’s insanely funny!</p>
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<!-- <div class="4u$"><span class="image fit"><img src="assets/images/C_H/1.png" alt="" /></span></div> -->
+		<div class="4u"><span class="image fit"><img src="assets/images/C_H/4.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/C_H/2.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/C_H/3.png" alt="" /></span></div>
+		<!--  -->
+	</div>
+</div>
+:ET
