@@ -93,17 +93,16 @@ image: assets/images/avatar.jpg
 </div>
 
 <!-- <span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span> -->
-<h2>Impressive Paintings</h2>
-<div class="box alt">
+<!-- <h2>Impressive Paintings</h2> -->
+<!-- <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/starry_night.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/impression_sunrise.jpg" alt="" /></span></div>
-		<!-- <div class="4u$"><span class="image fit"><img src="assets/images/port.jpg" alt="" /></span></div> -->
-		<div class="4u$"><span class="image fit"><img src="assets/images/water_lilies.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/impression_sunrise.jpg" alt="" /></span></div> -->
+<!-- 		<div class="4u$"><span class="image fit"><img src="assets/images/water_lilies.jpg" alt="" /></span></div>
 	</div>
-</div>
+</div> -->
 
-<hr class="major" />
+<!-- <hr class="major" /> -->
 
 <!-- <div class="row">
 	<div class="6u$ 12u$(small)">
