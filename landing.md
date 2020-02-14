@@ -36,7 +36,7 @@ nav-menu: true
 					<h3>This one's for you</h3>
 				</header>
 <p_t>
-		This one’s for you, the one who would trade anything for a chance to vanish into the forest, <br>
+		This one’s for you, the one who would trade anything for a chance to vanish into the forest,<br>
 		How beautiful it is, that you get up even when all you want to do is just rest <br>
 <br>
 		How exclusively fantastic is to hope with tears in your eyes,<br>

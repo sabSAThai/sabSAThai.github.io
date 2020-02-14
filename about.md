@@ -49,33 +49,45 @@ image: assets/images/avatar.jpg
 	<div class="4u 12u$(medium)">
 		<h4>Song Chart</h4>
 		<ul>
+			<li>Norwegian Wood</li>
+			<li>Sound of Silence</li>
+			<li>Sparrow</li>
+			<li>Knocking on Heaven's door</li>
 			<li>Imagine By Lenon</li>
 			<li>April She Will Come by Simon and Garfunkel</li>
 			<li>In My Life by the Beatles</li>
 			<li>Crazy Little Thing Called Love</li>
 			<li>Bohemian Rhapsody</li>
 			<li>Stairway To Heaven</li>
+			<li>Boxer</li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<!-- <h4>On Loop Songs</h4> -->
 		<ul>
-			<li>What a Wonderful World by Israel Kamakawiwoʻole</li>
-			<li>Moonlight Sonata by Beethoven</li>
-			<li>Four Seasons by Vivaldi</li>
+			<li>हम देखेंगे</li>
+			<li>दबे पैरों से उजाला आ रहा है</li>
+			<li>Yeh Jeevan hai, isi jeevan ka</li>
+			<li>Raadha kaise na jale</li>
 		</ul>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(medium)">
 		<h3>Books</h3>
 		<ul>
-			<li>A Midsummer's Night Dream by Shakespeare</li>
-			<li>Kafka On the Shore by Haruki Murakami</li>
-			<li>God of Small Things by Arundhati Roy</li>
-			<li>Pride and Prejudice by Jane Austin</li>
-			<li>Mein Kampf by Adolf Hitler</li>
-			<li>Metamorphosis by Franz Kafka</li>
-			<li>The Trial by Franz Kafka</li>
+			<li>The Old Man and the Sea</li>
+			<li>Autobiography of Benjamin Franklin</li>
+			<li>How the World Works by Noam Chomsky</li>
+			<li>Manufacturing Consent</li>
+			<li>1984</li>
+			<li>India After Gandhi</li>
+			<li>A Midsummer's Night Dream </li>
+			<li>Kafka On the Shore </li>
+			<li>God of Small Things</li>
+			<li>Pride and Prejudice</li>
+			<li>Mein Kampf</li>
+			<li>Metamorphosis</li>
+			<li>The Trial</li>
 		</ul>
 	</div>
 	<div class="6u 12u$(medium)">
