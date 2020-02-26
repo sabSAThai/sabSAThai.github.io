@@ -1,12 +1,4 @@
----
-layout: post
-title: Tempus
-description: Feugiat amet tempus
-<!-- image: assets/images/pic02.jpg -->
----
-
-Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, it's insanely funny!
-
+I"<p>Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, it’s insanely funny!</p>
 
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -18,9 +10,7 @@ Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, i
 	</div>
 </div>
 
-
-I have been cultivating a garden since my sophomore year at IIT Bombay. It has grown from a simple hobby to one of the closest and most cherished moments of my stay. Sharing few photos of my beautiful green souls!
-
+<p>I have been cultivating a garden since my sophomore year at IIT Bombay. It has grown from a simple hobby to one of the closest and most cherished moments of my stay. Sharing few photos of my beautiful green souls!</p>
 
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -39,9 +29,7 @@ I have been cultivating a garden since my sophomore year at IIT Bombay. It has g
 	</div>
 </div>
 
-
-
-<p><span class="image left"><img src="assets/images/brain_music.png" alt="" /><h3>Thespian love</h3> If I have to choose between movies and theatre, the choice will always go to theatre. Movies are great, but plays are just so real! The raw acting, the connection of the audience with the actors, it's all so powerful! In my third year, i.e year 2018, I made a new year resolution of watching atleast 10 plays in the whole year. And by the month of February, I was done with  </p>
+<p><span class="image left"><img src="assets/images/brain_music.png" alt="" /><h3>Thespian love</h3> If I have to choose between movies and theatre, the choice will always go to theatre. Movies are great, but plays are just so real! The raw acting, the connection of the audience with the actors, it's all so powerful! In my third year, i.e year 2018, I made a new year resolution of watching atleast 10 plays in the whole year. And by the month of February, I was done with  &lt;/p&gt;
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
@@ -79,3 +67,5 @@ I have been cultivating a garden since my sophomore year at IIT Bombay. It has g
 		</ul>
 	</div>
 </div>	
+</span></p>
+:ET

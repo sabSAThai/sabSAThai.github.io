@@ -55,6 +55,8 @@ image: assets/images/avatar.jpg
 			<li>Crazy Little Thing Called Love</li>
 			<li>Bohemian Rhapsody</li>
 			<li>Stairway To Heaven</li>
+			<li>Kashmir</li>
+			<li>Sparrow</li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
