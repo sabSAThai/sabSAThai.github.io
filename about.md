@@ -17,7 +17,7 @@ image: assets/images/avatar.jpg
 
 <!-- Content -->
 <!-- <h2 id="content">Short Introduction</h2> -->
-<p>Hi! I am a final year dual degree student at the Electrical Engineering, IIT Bombay. My research interests include but aren't limited to Computational Neuroscience, Auditory Cognition, Probability Modelling and Audio Signal Processing. I am interested in the fundamental questions around us. I enjoy reading fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :) Feel free to drop a message to connect!</p>
+<p>Hi! I am a final year dual degree student at the Electrical Engineering, IIT Bombay. My research interests include but aren't limited to Computational Neuroscience, Auditory Cognition, Probability Modelling and Audio Signal Processing. I am interested in the fundamental questions around us. I enjoy reading non-fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :)</p>
 
 <!-- <div class="box alt">
 	<h3>Transformation through ages</h3>
