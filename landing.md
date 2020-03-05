@@ -43,9 +43,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Poems</h3>
 				</header>
-				<p>Poetry</p>
+				<p>Collection of my attempts at writing few lines</p>
 				<ul class="actions">
 					<li><a href="poems.html" class="button">Read more</a></li>
 				</ul>
@@ -54,14 +54,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="reduce_radicalization.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/radical.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Reduce Radicalization</h3>
 				</header>
-				<p>Reduce radicalization</p>
+				<p>One thing the authoritarian and fascist governments are good at is creating polarization. The constant bombardment of radical thoughts while appealing to each one's individuality either by inciting fear or creating a false pride is a tried and tested method of people in power. How to avoid such radicalization?</p>
 				<ul class="actions">
 					<li><a href="reduce_radicalization" class="button">Read More</a></li>
 				</ul>
