@@ -1,12 +1,4 @@
----
-title: Scribblings
-layout: landing
-description: An attempt at structuring few thoughts
-image: assets/images/header_one.png
-nav-menu: true
----
-
-<!-- Main -->
+I"^<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -22,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="what_can_you_do.html" class="image">
-			<img src="{% link assets/images/indian_protests_1.jpg %}" alt="" data-position="center center" />
+			<img src="/assets/images/indian_protests_1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -38,7 +30,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="poems.html" class="image">
-			<img src="{% link assets/images/poems.jpg %}" alt="" data-position="top center" />
+			<img src="/assets/images/poems.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +46,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="reduce_radicalization.html" class="image">
-			<img src="{% link assets/images/radical.png %}" alt="" data-position="25% 25%" />
+			<img src="/assets/images/radical.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,3 +76,4 @@ nav-menu: true
 </section>
  -->
 </div>
+:ET
