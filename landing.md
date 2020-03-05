@@ -23,38 +23,38 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="what_can_you_do.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/indian_protests_2.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>What Can You Do?</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>India has seen a rise of authoritarianism since the rise of a fascist Hindu nationalist party, the BJP, which thrives on identity politics and tries to create and widen communal differences. Amidst the troubling times like these where democracy is being gagged, and hate lurks a long shadow on love and peace, there are few things which we as peace-loving citizens can do. I have tried elaborating on the same in this post.</p>
 				<ul class="actions">
-					<li><a href="what_can_you_do.html" class="button">Learn more</a></li>
+					<li><a href="what_can_you_do.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="poems.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/poems.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Rhoncus magna</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Poetry</p>
 				<ul class="actions">
-					<li><a href="poems.html" class="button">Learn more</a></li>
+					<li><a href="poems.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="reduce_radicalization.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -62,9 +62,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Sed nunc ligula</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Reduce radicalization</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="reduce_radicalization" class="button">Read More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -72,7 +72,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -83,5 +83,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
+ -->
 </div>
