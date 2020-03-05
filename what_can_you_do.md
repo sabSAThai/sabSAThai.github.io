@@ -3,7 +3,7 @@ layout: post
 title: What Can You Do?
 description: How to take part in democarcy
 image: assets/images/indian_protests.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 What can you do?

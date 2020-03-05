@@ -3,7 +3,7 @@ layout: post
 title: Reduce Radicalization 
 description: How to not be an extremist
 <!-- image: assets/images/indian_protests.jpg -->
-nav-menu: true
+nav-menu: false
 ---
 
 
