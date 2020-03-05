@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: allposts
 title: My Takes
 landing-title: 'My Takes'
@@ -10,3 +10,4 @@ show_tile: false
 ---
 
 <h1>My Takes</h1>
+ -->
