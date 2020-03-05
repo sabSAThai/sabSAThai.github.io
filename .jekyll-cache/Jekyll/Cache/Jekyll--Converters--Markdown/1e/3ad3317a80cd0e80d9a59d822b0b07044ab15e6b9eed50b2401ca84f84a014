@@ -1,11 +1,4 @@
----
-layout: page
-title: About
-nav-menu: true
-image: assets/images/avatar.jpg
----
-
-<!-- Main -->
+I"M<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -66,10 +59,37 @@ image: assets/images/avatar.jpg
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h4><h3>Quote which keeps me going</h3></h4>
-		<blockquote>Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it's to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential-as if a job title and salary are the sole measure of human worth. You'll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you're doing. There are a million ways to sell yourself out, and I guarantee you'll hear about them.<br> To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.</blockquote>
-		<p style="text-align:right;">- Bill Watterson</p> 
+		<ul>
+			<li>हम देखेंगे</li>
+			<li>दबे पैरों से उजाला आ रहा है</li>
+			<li>Yeh Jeevan hai, isi jeevan ka</li>
+			<li>Raadha kaise na jale</li>
+		</ul>
 	</div>
 	<!-- Break -->
+	<div class="6u 12u$(medium)">
+		<h3>Books</h3>
+		<ul>
+			<li>The Old Man and the Sea</li>
+			<li>Autobiography of Benjamin Franklin</li>
+			<li>How the World Works by Noam Chomsky</li>
+			<li>Manufacturing Consent</li>
+			<li>1984</li>
+			<li>India After Gandhi</li>
+			<li>A Midsummer's Night Dream </li>
+			<li>Kafka On the Shore </li>
+			<li>God of Small Things</li>
+			<li>Pride and Prejudice</li>
+			<li>Mein Kampf</li>
+			<li>Metamorphosis</li>
+			<li>The Trial</li>
+		</ul>
+	</div>
+	<div class="6u 12u$(medium)">
+		<h3>Quote which keeps me going</h3>
+		<blockquote>Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it's to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential-as if a job title and salary are the sole measure of human worth. You'll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you're doing. There are a million ways to sell yourself out, and I guarantee you'll hear about them.<br /> To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.</blockquote>
+		<p style="text-align:right;">- Bill Watterson</p> 
+	</div>
 <!-- 	<div class="4u$ 12u$(medium)">
 		<h3>Outdoor Activities</h3>
 		<ul>
@@ -114,3 +134,4 @@ image: assets/images/avatar.jpg
 </section>
 
 </div>
+:ET

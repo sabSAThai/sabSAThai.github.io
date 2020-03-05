@@ -1,13 +1,4 @@
----
-layout: post
-title: Tempus
-description: 
-<!-- image: assets/images/pic02.jpg -->
----
-
-
-Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, it's insanely funny!
-
+I"C	<p>Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, it’s insanely funny!</p>
 
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -19,10 +10,12 @@ Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, i
 	</div>
 </div>
 
+<p>I have been cultivating a garden since my sophomore year at IIT Bombay. It has grown from a simple hobby to one of the closest and most cherished moments of my stay. Sharing few photos of my beautiful green souls!</p>
 
-<!-- I have been cultivating a garden since my sophomore year at IIT Bombay. It has grown from a simple hobby to one of the closest and most cherished moments of my stay. Sharing few photos of my beautiful green souls!
- -->
-
+<p>Three airlines (and now apparently railway officers) have banned Kunal Kamra from availing their service. 
+More than imposing the policies and rules of the airlines, I see this as an attempt at boot-licking and suppressing voice that asks questions.
+In December of 2019, Saadhvi Pragya delayed a SpiceJet flight by 45 minutes over an emergency seat issue. SpiceJet apologized to the passengers for the trouble and there wasn’t any ban imposed on her.
+Claiming a moral high when it doesn’t exist in the first place is just a cover-up to hide the real reason.</p>
 
 <!-- <div class="box alt">
 	<div class="row 50% uniform">
@@ -38,5 +31,4 @@ Calvin and Hobbes is my favorite comic strip and my source of happiness! Also, i
 	</div>
 </div> -->
 
-
-
+:ET
