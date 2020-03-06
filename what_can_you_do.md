@@ -28,7 +28,7 @@ Remember that education is successful when it teaches us to raise their voice ag
 
 
 
-```References:```
-```What Uncle Sam Really Wants? -- Noam Chomsky```
-```The Responsibility of Intellectuals -- Noam Chomsky```
-```Secret, Lies, and Democracy -- Noam Chomsky```
+```References:```</br>
+```What Uncle Sam Really Wants? -- Noam Chomsky```</br>
+```The Responsibility of Intellectuals -- Noam Chomsky```</br>
+```Secret, Lies, and Democracy -- Noam Chomsky```</br>
