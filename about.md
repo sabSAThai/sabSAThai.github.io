@@ -17,7 +17,15 @@ image: assets/images/avatar.jpg
 
 <!-- Content -->
 <!-- <h2 id="content">Short Introduction</h2> -->
-<p>Hi! I am a final year dual degree student at the Electrical Engineering, IIT Bombay. My research interests include but aren't limited to Computational Neuroscience, Auditory Cognition, Probability Modelling and Audio Signal Processing. I am interested in the fundamental questions around us. I enjoy reading non-fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :)</p>
+<p>Hi! I am a final year dual degree student at the Electrical Engineering, IIT Bombay. My research interests include but aren't limited to Computational Neuroscience, Auditory Cognition, Probability Modelling, and Audio Signal Processing. I have been working with Prof.Chaporkar and Prof.Sibi at IIT Bombay on the problem of estimating the Information Transfer Rate of Auditory Stimulus. We used Mutual Information as a metric to understand the amount and the manner of representation of the tempo of the music stimulus in our brain activity. We are now working towards developing an auditory stimulus reconstruction model for music. I am also working on a collaborative project at Honda Research Institute, Japan, with Dr.Nishina on Sensory Augmentation based on Synaptic Learning. In my third year, I interned at Honda Research Institute, where I worked with Dr.Heike Brock. We worked on Sign Language Translation using Deep Neural Networks. We used the encoder-decoder models to associate the motion sequences with the text sequences.<br>
+
+Looking back, my research journey looks surreal. I grew up reading biographies of scientists and always aspired to be one. The fundamental questions around us have always been a subject of fascination for me.  After 10th grade, when I was introduced to Quantum Physics, I was almost sure of pursuing a research career in theoretical physics. When the time came to choose which branch I should opt for as my major, I expressed my choice to my Physics Professor, whom I adored very much. He advised me to take Electrical Engineering instead of Engineering Physics. The latter being the one I was interested in. But I am not complaining as I enjoyed my major a lot! And I am very happy about my current research area as well! Of course, nothing is stopping me from learning more about other fields. The quest for knowledge and understanding never gets dull. It doesn't. It's actually the opposite. The more you know, the more amazing the world seems. And it's the crazy possibilities, the unanswered questions, that pull us forward. <br>
+
+
+
+Since childhood, I have been a rebel, and my parents were liberal enough to allow me to ask questions and challenge them (something very rare in the country I come from). Politically, I identify myself as a socialist liberal. I am highly influenced by Noam Chomsky and his essay "The Responsibility of Intellectuals." I have written a few political blogs. Do check them out: <a href="landing.html">Posts</a>. <br>
+
+I am an amateur harmonica player, and I am still learning! I enjoy reading non-fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :)</p>
 
 <!-- <div class="box alt">
 	<h3>Transformation through ages</h3>
