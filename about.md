@@ -25,7 +25,7 @@ Looking back, my research journey looks surreal. I grew up reading biographies o
 
 Since childhood, I have been a rebel, and my parents were liberal enough to allow me to ask questions and challenge them (something very rare in the country I come from). Politically, I identify myself as a socialist liberal. I am highly influenced by Noam Chomsky and his essay "The Responsibility of Intellectuals." I have written a few political blogs. Do check them out: <a href="landing.html">Posts</a>. <br>
 
-I am an amateur harmonica player, and I am still learning! I enjoy reading non-fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :)</p>
+I am an amateur harmonica player, and I am still learning. I enjoy reading non-fiction, classic rock, folk, trekking and astronomy along with people who enjoy my interests :)</p>
 
 <!-- <div class="box alt">
 	<h3>Transformation through ages</h3>
