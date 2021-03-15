@@ -1,7 +1,7 @@
 # site settings
 title: Pranav
 subtitle: Sankhe
-email: pranavsankhe40@gmail.com
+email:
 description: 
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Mumbai
 state: 
 zip_code: 401303
 country: India
-phone: (91) 90292-04916
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
